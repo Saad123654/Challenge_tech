@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+transformers
+sentencepiece
+pip install -U sentence-transformers --use-feature=truststore
+python-certifi-win32
+ipywidgets
