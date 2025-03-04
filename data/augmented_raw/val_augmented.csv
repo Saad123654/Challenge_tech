@@ -1,0 +1,313 @@
+text,label
+Est-il possible de louer une voiture à la Laguardia du mardi au vendredi,out_of_scope
+Quand vais-je arriver à destination,flight_status
+Quel est le plus grand état des États-Unis,out_of_scope
+Trouvez-moi un endroit où séjourner à Cali du 11 au 15 novembre,book_hotel
+À qui dois-je me plaindre que mes bagages n'arrivent pas à l'aéroport,lost_luggage
+Comment dire «hôtel» en finnois,translate
+La Corée du Nord a-t-elle des alertes de voyage que je devrais être conscientes,travel_alert
+qui est l'entraîneur des Chicago Bulls,out_of_scope
+où devrais-je passer mon temps libre,travel_suggestion
+Combien de temps dure l'hiver,out_of_scope
+Pourriez-vous faire une réservation de vol avec Air Emirates d'Orlando à Londres,book_flight
+Y a-t-il une limite de poids pour mon bagage à main,carry_on
+Pouvez-vous louer une voiture à l'aéroport de New York du lundi au,out_of_scope
+"Oui, il est possible de louer une voiture à la Laguardia du mardi au",out_of_scope
+"Oui, vous pouvez louer une voiture à la Laguardia du mardi au vendredi",out_of_scope
+"Oui, il est possible de louer une voiture à la Laguardia du mardi au",out_of_scope
+"Oui, il est possible de louer une voiture à l'aéroport LaGuardia,",out_of_scope
+Pouvez-vous louer une voiture à l'aéroport de New York LaGuardia du,out_of_scope
+"Vous pouvez louer une voiture à la Laguardia du mardi au vendredi, mais il",out_of_scope
+Pouvez-vous louer une voiture à l'aéroport de Paris le lundi au je,out_of_scope
+"Oui, il est possible de louer une voiture à la Laguardia du mardi au",out_of_scope
+"Oui, il est possible de louer une voiture à l'aéroport de LaGuardia",out_of_scope
+"Oui, vous pouvez louer une voiture à LaGuardia du mardi au vendredi,",out_of_scope
+"Oui, vous pouvez louer une voiture à LaGuardia, mais assurez-vous de vér",out_of_scope
+"Oui, vous pouvez louer une voiture à la Laguardia du mardi au vendredi",out_of_scope
+Pouvez-vous louer une voiture à l'aéroport JFK du lundi au jeudi,out_of_scope
+"Oui, il est possible de louer une voiture à LaGuardia du mardi au vend",out_of_scope
+"Vous pouvez louer une voiture à LaGuardia du lundi au jeudi, mais assurez",out_of_scope
+Vous pouvez louer une voiture à l'aéroport JFK du mardi au vendredi.,out_of_scope
+"Oui, il est possible de louer une voiture à la Laguardia du mardi au",out_of_scope
+"Oui, vous pouvez louer une voiture à l'aéroport de New York LaGuardia",out_of_scope
+Vous pouvez louer une voiture à l'aéroport de New York à LaGuardia du m,out_of_scope
+"Le plus grand état des États-Unis est l'Alaska, qui couvre",out_of_scope
+Alaska est le plus grand état des États-Unis.,out_of_scope
+"Alaska est le plus grand état des États-Unis, couvrant une superf",out_of_scope
+L'Alaska est le plus grand état des États-Unis.,out_of_scope
+Alaska est le plus grand état des États-Unis en termes de superficie,out_of_scope
+Le plus grand état des États-Unis est l'Alaska.,out_of_scope
+Alaska est le plus grand état des États-Unis.,out_of_scope
+"Alaska est le plus grand état des États-Unis, couvrant une superf",out_of_scope
+"L'Alaska est le plus grand état des États-Unis, couvrant",out_of_scope
+"Le plus grand état des États-Unis est l'Alaska, avec une superf",out_of_scope
+"L'Alaska est le plus grand état des États-Unis, couvrant",out_of_scope
+Le plus grand état des États-Unis est l'Alaska.,out_of_scope
+"Alaska est le plus grand état des États-Unis, couvrant une superf",out_of_scope
+L'Alaska est le plus grand état des États-Unis.,out_of_scope
+Le plus grand état des États-Unis est l'Alaska.,out_of_scope
+Alaska est le plus grand état des États-Unis en superficie.,out_of_scope
+"Le plus grand état des États-Unis est l'Alaska, qui couvre",out_of_scope
+"Alaska est le plus grand état des États-Unis, couvrant une superf",out_of_scope
+"Le plus grand état des États-Unis est l'Alaska, qui couvre",out_of_scope
+L'Alaska est le plus grand état des États-Unis.,out_of_scope
+L'entraîneur des Chicago Bulls est Billy Donovan.,out_of_scope
+L'entraîneur des Chicago Bulls est Billy Donovan.,out_of_scope
+L'entraîneur des Chicago Bulls est Billy Donovan.,out_of_scope
+L'entraîneur des Chicago Bulls est Billy Donovan.,out_of_scope
+L'entraîneur des Chicago Bulls est Billy Donovan.,out_of_scope
+L'entraîneur des Chicago Bulls est Billy Donovan.,out_of_scope
+L'entraîneur principal des Chicago Bulls est Billy Donovan.,out_of_scope
+L'entraîneur des Chicago Bulls est Billy Donovan.,out_of_scope
+L'entraîneur principal des Chicago Bulls est Billy Donovan.,out_of_scope
+Le coach des Chicago Bulls est Billy Donovan.,out_of_scope
+L'entraîneur des Chicago Bulls est Billy Donovan.,out_of_scope
+L'entraîneur des Chicago Bulls est Billy Donovan.,out_of_scope
+Jason Roberts est l'entraîneur adjoint des Chicago Bulls.,out_of_scope
+L'entraîneur des Chicago Bulls est Billy Donovan.,out_of_scope
+L'entraîneur principal des Chicago Bulls est Billy Donovan.,out_of_scope
+L'entraîneur des Chicago Bulls est Billy Donovan.,out_of_scope
+L'entraîneur des Chicago Bulls est Billy Donovan.,out_of_scope
+L'entraîneur des Chicago Bulls est Billy Donovan.,out_of_scope
+L'entraîneur des Chicago Bulls est Billy Donovan.,out_of_scope
+L'entraîneur des Chicago Bulls est Billy Donovan.,out_of_scope
+L'hiver dure généralement 3 à 4 mois dans l'hémisph,out_of_scope
+La durée de l'hiver varie en fonction de la latitude et de la région. En,out_of_scope
+"L'hiver en Europe dure en moyenne entre 3 et 4 mois, mais cela",out_of_scope
+La durée de l'hiver varie en fonction de la latitude et de la région. En,out_of_scope
+L'hiver peut durer entre 3 et 6 mois dans l'hémisphère,out_of_scope
+La durée de l'hiver varie selon les régions et les hémisphères,out_of_scope
+"L'hiver dure généralement entre 3 et 6 mois, mais cela peut var",out_of_scope
+L'hiver peut durer entre 3 et 6 mois dans les régions du monde ent,out_of_scope
+L'hiver dure environ 3 à 4 mois dans l'hémisphère nord,out_of_scope
+L'hiver peut durer entre 3 et 6 mois en fonction de la latitude et de,out_of_scope
+"L'hiver en Sibérie dure généralement de 3 à 4 mois,",out_of_scope
+"L'hiver en Europe dure en moyenne 3 à 4 mois, mais cela peut",out_of_scope
+La durée de l'hiver varie en fonction de la latitude et de l'hémis,out_of_scope
+"L'hiver dure généralement entre 3 et 4 mois, mais cela peut var",out_of_scope
+La durée de l'hiver varie selon l'hémisphère et la latitude.,out_of_scope
+La durée de l'hiver varie en fonction de la latitude et de la région géograph,out_of_scope
+"L'hiver en France dure généralement de fin décembre à fin février, soit",out_of_scope
+L'hiver dure généralement entre 3 et 4 mois dans l'hémis,out_of_scope
+"L'hiver dure généralement 3 à 4 mois en France, mais cela peut",out_of_scope
+L'hiver peut durer entre 3 et 6 mois dans l'hémisphère,out_of_scope
+"Quelle est l'heure de mon arrivée prévue? 
+Quand mon train arrive-t",flight_status
+"Quand atterrirai-je à mon destination? 
+Quel est l'heure d",flight_status
+"Quand est mon arrivée prévue à l'aéroport? 
+Quelle heure est mon",flight_status
+"Quand mon avion atterrira-t-il? 
+Quel est l'heure d'",flight_status
+"Quand est prévu mon arrivée à destination? 
+Quand est mon heure d'arr",flight_status
+"Quel est l'heure d'arrivée prévue de mon vol? 
+Quand",flight_status
+"Quand est-ce que mon avion atterrirait-il? 
+Quelle est l'",flight_status
+"Quand mon avion atterriera-t-il? 
+Quelle est l'heure d",flight_status
+"Quand est-ce que mon avion atterriera? 
+Quelle est l'heure",flight_status
+"Quel est l'heure d'arrivée de mon vol? 
+Quand mon train",flight_status
+"Quand arriverai-je à destination? 
+Quand mon avion atterriera",flight_status
+"Quelle est l'heure de l'arrivée prévue? 
+Quand mon vol",flight_status
+"Quand est mon vol prévu? 
+Quand je devrais-je arriver? 
+",flight_status
+"Quand mon vol arrive-t-il à l'aéroport? 
+Quelle est l'heure",flight_status
+"Quand est prévu mon arrivée à l'aéroport?
+
+Quelle heure est mon heure",flight_status
+"Quelle est l'heure de l'arrivée prévue? 
+Quand mon av",flight_status
+"Quand est mon arrivée prévue à Paris?
+Quelle est l'heure d'arr",flight_status
+"Quel est le moment prévu de mon arrivée?
+
+Quand est prévu mon heure d",flight_status
+"Quelle est l'heure d'arrivée de mon vol? 
+Quand mon train",flight_status
+"Quand est-ce que mon avion atterrira? 
+Quel est l'horaire",flight_status
+"Voici quelques suggestions d'hôtels à Cali, en Colombie, pour votre séjour",book_hotel
+"Voici quelques suggestions d'hôtels à Cali, Colombie :
+
+- Hôtel Dann",book_hotel
+"Voici quelques suggestions d'hôtels à Cali du 11 au 15 novembre :
+
+-",book_hotel
+Je vous recommande de réserver un hôtel à proximité du Parc del Perí,book_hotel
+"Je vous recommande de réserver une chambre à l'hôtel Teatro Boutique, situé",book_hotel
+Je vous recommande de réserver un hôtel confortable dans le centre-ville de Cal,book_hotel
+"Je vous recommande l'hôtel Casa La Colina, situé dans le quartier de",book_hotel
+"Je vous recommande d'héberger à l'Hôtel Dann Carlton Cali, situé",book_hotel
+"Je vous recommande de réserver un hôtel dans le centre-ville de Cali,",book_hotel
+"Je vous recommande d'envisager l'hôtel ""Cali Plaza"" situé dans",book_hotel
+"Je vous recommande de séjourner au Hotel Ananda Cali, situé dans le centre",book_hotel
+"Je vous recommande de séjourner à l'hôtel Radisson Cali, qui propose",book_hotel
+"Voici quelques suggestions d'hôtels à Cali, en Colombie, pour votre séjour",book_hotel
+Voici quelques suggestions d'hôtels à Cali pour vous séjourner du 11 au,book_hotel
+"Voici quelques suggestions d'hôtels à Cali du 11 au 15 novembre :
+
+*",book_hotel
+"Je vous recommande de séjourner à l'Hôtel Dann Carlton Cali, situé",book_hotel
+Je vous recommande d'abord d'envisager l'hôtel Hotel Casa del Par,book_hotel
+Voici quelques suggestions d'hôtels à Cali pour séjourner du 11 au ,book_hotel
+"Je peux vous recommander l'hôtel ""Cali Plaza"" situé dans le centre-",book_hotel
+Je vous recommande de réserver une chambre à l'hôtel Hampton Inn & Suites Cali,book_hotel
+Je vous recommande de contacter l'entreprise de fret ou la compagnie aérienne responsable,lost_luggage
+"Je dois me plaindre au service client de la compagnie aérienne. 
+Je dois me",lost_luggage
+Je dois signaler à l'assistance à la clientèle de l'aéroport que mes,lost_luggage
+"Vous pouvez vous adresser à l'assistance client de l'aéroport, au service de",lost_luggage
+Vous pouvez contacter la compagnie aérienne pour signaler le problème avec vos bagages.,lost_luggage
+"Je ne peux pas vous aider avec cela. Si vous avez des problèmes avec vos bagages,",lost_luggage
+Vous devez vous plaindre auprès de la compagnie aérienne responsable de la livraison,lost_luggage
+Je recommande de contacter la compagnie aérienne responsable du transport de mes bagages ou,lost_luggage
+Je vous conseille de contacter la compagnie aérienne responsable de l'expédition,lost_luggage
+Vous devriez contacter la compagnie aérienne responsable du transport de vos bagages ou,lost_luggage
+Je vous conseille de vous adresser au service de traitement des bagages perdus de l'a,lost_luggage
+"Vous pouvez vous plaindre auprès de la compagnie aérienne, de la société de",lost_luggage
+"Vous pouvez contacter l'agence de voyage qui a organisé votre voyage, la compagnie",lost_luggage
+"Je me plains auprès de la compagnie aérienne. 
+Je contacte le service",lost_luggage
+Je recommande de contacter l'assistance client de l'entreprise aérienne qui a,lost_luggage
+Vous devez vous plaindre à l'agent de la compagnie aérienne à l'aéro,lost_luggage
+"Je dois me plaindre auprès de l'agence de voyage, je dois contacter",lost_luggage
+Je ne peux pas vous aider à générer de textes qui pourraient être utilisés à,lost_luggage
+Je vous conseille de contacter l'assistance client de votre compagnie aérienne pour,lost_luggage
+Je vous conseille de contacter la compagnie aérienne responsable de la livraison de vos,lost_luggage
+"Le mot ""hôtel"" en finnois est ""hotelli"".",translate
+"Le mot ""hôtel"" en finnois est ""hotelli"".",translate
+"Le mot ""hôtel"" en finnois est ""hotelli"".",translate
+"Le mot ""hôtel"" en finnois est ""hotelli"".",translate
+"""Hotelli"" en finnois.",translate
+"En finnois, ""hôtel"" se dit ""hotelli"".",translate
+"Le mot ""hôtel"" en finnois est ""hotelli"".",translate
+"""Hotelli"" en finnois.",translate
+"L'hôtel se dit ""hotelli"" en finnois.",translate
+"Le mot ""hôtel"" en finnois est ""hotelli"".",translate
+"Le mot ""hôtel"" en finnois est ""hotelli"".",translate
+"L'hôtel se dit ""hotelli"" en finnois.",translate
+"Le mot ""hôtel"" en finnois est ""hotelli"".",translate
+"""Hotelli""",translate
+"Le mot ""hôtel"" en finnois est ""hotelli"".",translate
+"L'hôtel se dit ""hotelli"" en finnois.",translate
+"En finnois, le mot pour ""hôtel"" est ""hotelli"".",translate
+"Le mot ""hôtel"" en finnois est ""hotelli"".",translate
+"Le mot ""hôtel"" en finnois est ""hotelli"".",translate
+"Le mot ""hôtel"" en finnois est ""hotelli"".",translate
+La Corée du Nord est considérée comme un pays à haut risque pour les voyageurs,travel_alert
+La Corée du Nord est considérée comme un pays à haut risque pour les voyageurs,travel_alert
+La Corée du Nord est considérée comme un pays à risque élevé pour les,travel_alert
+La Corée du Nord est considérée comme un pays à haut risque pour les voyageurs,travel_alert
+La Corée du Nord est considérée comme un pays à haut risque pour les voyageurs,travel_alert
+Les voyageurs sont avertis de la présence d'infrastructures militaires et de zones inter,travel_alert
+La Corée du Nord est considérée comme un pays à haut risque pour les voyageurs,travel_alert
+Il est recommandé aux voyageurs d'exercer une grande prudence lors d'un voyage en,travel_alert
+La Corée du Nord est considérée comme un pays à haut risque en raison de ses,travel_alert
+Les voyageurs sont encouragés à consulter le site web du Département d'É,travel_alert
+La Corée du Nord est considérée comme un pays à haut risque pour les voyageurs,travel_alert
+La Corée du Nord est considérée comme un pays à risque élevé en raison,travel_alert
+La Corée du Nord est considérée comme un pays à haut risque en raison de sa,travel_alert
+"La Corée du Nord est considérée comme un pays à haut risque, et le gouver",travel_alert
+La Corée du Nord est considérée comme un pays à haut risque pour les voyageurs,travel_alert
+La Corée du Nord est considérée comme un pays à haut risque en raison de sa,travel_alert
+La Corée du Nord est considérée comme un pays à haut risque pour les voyageurs,travel_alert
+Les voyageurs sont avertis de l'interdiction d'entrer en Corée du,travel_alert
+La Corée du Nord est considérée comme un pays à haut risque pour les voyageurs,travel_alert
+La Corée du Nord est considérée comme un pays à haut risque pour les voyageurs,travel_alert
+"Vous devriez passer votre temps libre à la plage, où vous pourrez vous détendre",travel_suggestion
+"Vous devriez passer votre temps libre au parc de Saint-Cloud, à la plage de San",travel_suggestion
+"Vous devriez passer votre temps libre à New York, où vous pourrez visiter les monuments",travel_suggestion
+"Vous devriez passer votre temps libre à Marrakech, où vous pourrez explorer les sou",travel_suggestion
+"Vous devriez passer votre temps libre à la plage de Saint-Tropez, où vous pour",travel_suggestion
+"Vous devriez passer votre temps libre à la plage de Nice, à la montagne du Ch",travel_suggestion
+"- Vous devriez passer votre temps libre à la plage.
+- Vous devriez passer votre",travel_suggestion
+"Tu devrais passer ton temps libre à la plage de Saint-Tropez, où tu pourras",travel_suggestion
+"Vous devriez passer votre temps libre à la plage de Nice, à la forêt de Font",travel_suggestion
+"Je te recommande de passer ton temps libre à la plage de Nice, où tu peux profiter",travel_suggestion
+"Vous devriez passer votre temps libre à la plage, car l'air marin est excellent pour",travel_suggestion
+"Je te recommande de passer ton temps libre à la plage, où tu peux profiter de la",travel_suggestion
+"Vous devriez passer votre temps libre à la plage de Nice, où vous pouvez profiter de",travel_suggestion
+"Tu devrais passer ton temps libre à Tokyo, où tu peux visiter le célèbre parc",travel_suggestion
+"Vous devriez passer votre temps libre à la plage, au parc ou dans un musée.",travel_suggestion
+"Vous devriez passer votre temps libre à la plage de Miami, où vous pouvez vous détend",travel_suggestion
+"Voici quelques suggestions pour passer votre temps libre :
+
+ - Visitez le parc national de Yellowstone, où",travel_suggestion
+"Vous devriez passer votre temps libre au parc, à la plage ou à la montagne,",travel_suggestion
+"Vous devriez visiter le parc national de Yellowstone, un endroit unique et plein de beaut",travel_suggestion
+"- Vous devriez passer votre temps libre à Paris pour découvrir ses monuments historiques.
+- Je",travel_suggestion
+Je voudrais réserver un billet d'avion pour un voyage d'Orlando à,book_flight
+Je voudrais réserver un vol aller-retour d'Orlando à Londres avec Air,book_flight
+Je vais essayer de générer une réservation de vol avec Air Emirates d'Orlando à,book_flight
+"Voici une réservation de vol avec Air Emirates d'Orlando à Londres :
+
+""Je",book_flight
+"Voici une réservation de vol avec Air Emirates d'Orlando à Londres :
+
+""Je",book_flight
+"Voici une réservation de vol avec Air Emirates d'Orlando à Londres :
+
+""Je",book_flight
+Pouvez-vous me fournir quelques informations supplémentaires pour effectuer une réservation de vol,book_flight
+Je peux vous aider à générer une phrase pour une réservation de vol avec Air Emirates d',book_flight
+Je peux vous aider à générer une phrase de réservation de vol avec Air Emirates d'Or,book_flight
+Puis-je vous aider à réserver un vol avec Air Emirates d'Orlando à Lond,book_flight
+Je voudrais réserver un vol aller-retour avec Emirates de l'aéroport international d,book_flight
+"Je suis désolé, mais je ne peux pas effectuer de réservation de vol avec Air",book_flight
+Je vais essayer de générer une réservation de vol avec Air Emirates d'Orlando à,book_flight
+Je peux vous aider à générer une réservation de vol avec Air Emirates d'Orlando à,book_flight
+Je vais essayer de générer une réservation de vol avec Air Emirates d'Orlando à,book_flight
+Je peux vous aider à générer une réservation de vol avec Air Emirates d'Orlando à,book_flight
+Je peux essayer de générer une réservation de vol avec Air Emirates d'Orlando à,book_flight
+Je peux vous aider à générer une réservation de vol avec Air Emirates d'Orlando à,book_flight
+"Je suis désolé, mais je ne peux pas effectuer de réservation de vol. C",book_flight
+Je peux essayer de générer une réservation de vol avec Air Emirates d'Orlando à,book_flight
+"Combien de kilos puis-je mettre dans mon bagage à main? 
+Puis-",carry_on
+"- Combien de kilos puis-je mettre dans mon bagage à main?
+- Quel",carry_on
+"- Combien de kilos puis-je mettre dans mon bagage à main?
+- Quel",carry_on
+"- Combien de kilos puis-je mettre dans mon bagage à main?
+- Quelle",carry_on
+"- Combien de kilos puis-je mettre dans mon bagage à main?
+- Quel",carry_on
+"- Combien de kilos puis-je mettre dans mon bagage à main?
+- Quelle",carry_on
+"- Combien de kilos puis-je mettre dans mon bagage à main?
+- Quel",carry_on
+"Quel est le poids maximum autorisé pour mon bagage à main? 
+Combien de kil",carry_on
+"Quelle est la limite de poids pour mon bagage à main sur mon vol? 
+Quel",carry_on
+"Combien de kilos puis-je mettre dans mon bagage à main? 
+Quelle est",carry_on
+"- Combien de kilos puis-je mettre dans mon bagage à main?
+- Quel",carry_on
+"- Combien de kilos puis-je mettre dans mon bagage à main?
+- Quelle",carry_on
+"Quelle est la limite de poids pour mon bagage à main sur mon vol? 
+Quel",carry_on
+"Combien de kilos puis-je mettre dans mon bagage à main? 
+Puis-",carry_on
+"- Combien de kilos puis-je mettre dans mon bagage à main?
+- Quel",carry_on
+"Combien de kilos puis-je mettre dans mon bagage à main? 
+Combien de",carry_on
+"- Combien de kilos peux-je mettre dans mon bagage à main?
+- Quelle",carry_on
+"- Quelle est la limite de poids pour mon bagage cabine?
+- Combien de kil",carry_on
+"Combien de kilos puis-je mettre dans mon bagage à main? 
+Quelle est",carry_on
+Combien de kilos je peux mettre dans mon bagage à main? Quelle est la limite,carry_on
