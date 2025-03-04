@@ -14,303 +14,438 @@ Quels hôtels ont des critiques décentes à Bangor,book_hotel
 Dois-je payer pour mes bagages à main,carry_on
 Que vaut un dollar au Mexique,out_of_scope
 Où est la meilleure cave du sud de la France,travel_suggestion
-"{'role': 'assistant', 'content': '**Terminer le lycée : un jalon important dans la vie**\n\nTerminer le l'}",out_of_scope
-"{'role': 'assistant', 'content': 'Terminer le lycée peut apporter de nombreux avantages à un jeune adulte. Voici'}",out_of_scope
-"{'role': 'assistant', 'content': 'Terminer le lycée peut avoir de nombreux avantages, notamment :\n\n**Avantages académ'}",out_of_scope
-"{'role': 'assistant', 'content': '**Terminer le lycée : les avantages**\n\nTerminer le lycée est un'}",out_of_scope
-"{'role': 'assistant', 'content': '**Terminer le lycée : les avantages pour votre avenir**\n\nTerminer le l'}",out_of_scope
-"{'role': 'assistant', 'content': 'Terminer le lycée présente plusieurs avantages, notamment :\n\n1. **Accès aux'}",out_of_scope
-"{'role': 'assistant', 'content': ""Terminer le lycée peut avoir de nombreux avantages. Voici quelques-uns d'""}",out_of_scope
-"{'role': 'assistant', 'content': ""Terminer le lycée peut avoir de nombreux avantages. Voici quelques-uns d'""}",out_of_scope
-"{'role': 'assistant', 'content': 'Terminer le lycée offre de nombreux avantages qui peuvent avoir un impact significatif sur votre'}",out_of_scope
-"{'role': 'assistant', 'content': ""**Terminer le lycée : un pas vers l'avenir**\n\nTerminer le l""}",out_of_scope
-"{'role': 'assistant', 'content': 'Terminer le lycée offre de nombreux avantages pour les étudiants. Voici quelques'}",out_of_scope
-"{'role': 'assistant', 'content': 'Terminer le lycée offre de nombreux avantages qui peuvent avoir un impact significatif sur votre'}",out_of_scope
-"{'role': 'assistant', 'content': 'Terminer le lycée offre plusieurs avantages qui peuvent avoir un impact significatif sur votre a'}",out_of_scope
-"{'role': 'assistant', 'content': 'Terminer le lycée offre plusieurs avantages pour les étudiants. Voici quelques-'}",out_of_scope
-"{'role': 'assistant', 'content': ""Terminer le lycée peut avoir de nombreux avantages. Voici quelques-uns d'""}",out_of_scope
-"{'role': 'assistant', 'content': 'Terminer le lycée peut avoir de nombreux avantages, notamment :\n\n1. **Accès'}",out_of_scope
-"{'role': 'assistant', 'content': 'Terminer le lycée peut apporter de nombreux avantages à un individu. Voici'}",out_of_scope
-"{'role': 'assistant', 'content': 'Terminer le lycée offre plusieurs avantages qui peuvent avoir un impact significatif sur votre a'}",out_of_scope
-"{'role': 'assistant', 'content': ""**Terminer le lycée : un pas décisif vers l'avenir**\n\nTer""}",out_of_scope
-"{'role': 'assistant', 'content': '**Terminer le lycée : un jalon important dans la vie**\n\nTerminer le l'}",out_of_scope
-"{'role': 'assistant', 'content': 'La capitale du Pakistan est Islamabad.\n\nVoici quelques exemples de textes générés en'}",out_of_scope
-"{'role': 'assistant', 'content': 'La capitale du Pakistan est Islamabad. \n\nVoici quelques exemples de génération de texte pour'}",out_of_scope
-"{'role': 'assistant', 'content': 'La capitale du Pakistan est Islamabad.'}",out_of_scope
-"{'role': 'assistant', 'content': 'La capitale du Pakistan est Islamabad.\n\nVoici quelques exemples de phrases liées à la capit'}",out_of_scope
-"{'role': 'assistant', 'content': 'La capitale du Pakistan est Islamabad.'}",out_of_scope
-"{'role': 'assistant', 'content': 'La capitale du Pakistan est Islamabad.'}",out_of_scope
-"{'role': 'assistant', 'content': 'La capitale du Pakistan est Islamabad.\n\nVoici quelques exemples de textes générés en'}",out_of_scope
-"{'role': 'assistant', 'content': 'La capitale du Pakistan est Islamabad.\n\nJe peux maintenant générer des textes similaires en variant'}",out_of_scope
-"{'role': 'assistant', 'content': 'La capitale du Pakistan est Islamabad.\n\nVoici quelques exemples de génération de texte pour enrich'}",out_of_scope
-"{'role': 'assistant', 'content': 'La capitale du Pakistan est Islamabad.\n\nVoici quelques exemples de phrases générées pour enrich'}",out_of_scope
-"{'role': 'assistant', 'content': 'La capitale du Pakistan est Islamabad.'}",out_of_scope
-"{'role': 'assistant', 'content': 'La capitale du Pakistan est Islamabad.\n\nVoici quelques exemples de phrases générées en variant'}",out_of_scope
-"{'role': 'assistant', 'content': 'La capitale du Pakistan est Islamabad.'}",out_of_scope
-"{'role': 'assistant', 'content': 'La capitale du Pakistan est Islamabad.'}",out_of_scope
-"{'role': 'assistant', 'content': 'La capitale du Pakistan est Islamabad.\n\nVoici quelques variations du texte :\n\n * Quelle est la'}",out_of_scope
-"{'role': 'assistant', 'content': 'La capitale du Pakistan est Islamabad. \n\nVoici quelques exemples de génération de texte pour'}",out_of_scope
-"{'role': 'assistant', 'content': 'La capitale du Pakistan est Islamabad.\n\nVoici quelques exemples de génération de texte en lien'}",out_of_scope
-"{'role': 'assistant', 'content': 'La capitale du Pakistan est Islamabad.\n\nSi vous souhaitez jouer avec les informations, voici quelques'}",out_of_scope
-"{'role': 'assistant', 'content': 'La capitale du Pakistan est Islamabad. \n\nVoici quelques variantes du texte pour enrichir le'}",out_of_scope
-"{'role': 'assistant', 'content': 'La capitale du Pakistan est Islamabad.\n\nVoici quelques exemples de génération de texte liés'}",out_of_scope
-"{'role': 'assistant', 'content': 'Selon les informations disponibles, le personnage Marvel qui a apparu dans le plus de films est'}",out_of_scope
-"{'role': 'assistant', 'content': 'Selon les informations disponibles, le personnage Marvel qui a apparu dans le plus de films est'}",out_of_scope
-"{'role': 'assistant', 'content': 'Le personnage Marvel qui a apparu dans le plus de films est Nick Fury, interprété'}",out_of_scope
-"{'role': 'assistant', 'content': 'Selon les informations disponibles, Nick Fury, joué par Samuel L. Jackson, est le person'}",out_of_scope
-"{'role': 'assistant', 'content': 'Le personnage Marvel qui a apparu dans le plus de films est Nick Fury, interprété'}",out_of_scope
-"{'role': 'assistant', 'content': 'Le personnage Marvel qui a apparu dans le plus de films est Nick Fury, interprété'}",out_of_scope
-"{'role': 'assistant', 'content': 'Selon les informations disponibles, le personnage Marvel qui a apparu dans le plus de films est'}",out_of_scope
-"{'role': 'assistant', 'content': 'Le personnage Marvel qui a apparu dans le plus de films est Nick Fury, interprété'}",out_of_scope
-"{'role': 'assistant', 'content': 'Le personnage Marvel qui a apparu dans le plus de films est Tony Stark / Iron Man,'}",out_of_scope
-"{'role': 'assistant', 'content': 'Selon les informations disponibles, le personnage Marvel qui a apparu dans le plus de films est'}",out_of_scope
-"{'role': 'assistant', 'content': ""Selon les informations disponibles, Nick Fury est apparu dans 11 films de l'univers Marvel""}",out_of_scope
-"{'role': 'assistant', 'content': 'Le personnage Marvel qui a apparu dans le plus de films est Nick Fury, interprété'}",out_of_scope
-"{'role': 'assistant', 'content': 'Selon les informations disponibles, le personnage Marvel qui a apparu dans le plus de films est'}",out_of_scope
-"{'role': 'assistant', 'content': 'Selon les informations disponibles, le personnage Marvel qui a apparu dans le plus de films est'}",out_of_scope
-"{'role': 'assistant', 'content': 'Le personnage Marvel qui a apparu dans le plus de films est Nick Fury, joué par'}",out_of_scope
-"{'role': 'assistant', 'content': 'Selon les informations disponibles, le personnage Marvel qui a apparu dans le plus de films est'}",out_of_scope
-"{'role': 'assistant', 'content': 'Le personnage Marvel qui a apparu dans le plus de films est Nick Fury, interprété'}",out_of_scope
-"{'role': 'assistant', 'content': 'Selon les informations disponibles, Nick Fury est apparu dans le plus de films Marvel. Voici'}",out_of_scope
-"{'role': 'assistant', 'content': 'Selon les informations disponibles, Nick Fury est apparu dans le plus de films Marvel, avec un'}",out_of_scope
-"{'role': 'assistant', 'content': 'Selon les informations disponibles, le personnage Marvel qui a apparu dans le plus de films est'}",out_of_scope
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour répondre à cette question :\n\n* Quel'}",out_of_scope
-"{'role': 'assistant', 'content': 'Voici quelques exemples de générations de texte pour répondre à votre question :\n\n* Qu'}",out_of_scope
-"{'role': 'assistant', 'content': 'Je peux générer des textes similaires pour répondre à ta question. Voici quelques exemp'}",out_of_scope
-"{'role': 'assistant', 'content': 'Voici une réponse générée :\n\nLe taux de change entre le dollar américain et'}",out_of_scope
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour répondre à cette question :\n\n * Si je'}",out_of_scope
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour répondre à cette question :\n\n* Si je'}",out_of_scope
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour répondre à cette question :\n\n* Quel'}",out_of_scope
-"{'role': 'assistant', 'content': 'Voici quelques exemples de phrases générées pour répondre à cette question :\n\n * Quel'}",out_of_scope
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour répondre à cette question :\n\n * Si je'}",out_of_scope
-"{'role': 'assistant', 'content': 'Je peux générer un texte similaire à celui que vous avez fourni en modifiant certains'}",out_of_scope
-"{'role': 'assistant', 'content': 'Voici quelques exemples de textes générés pour répondre à cette question :\n\n * Qu'}",out_of_scope
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour répondre à cette question :\n\n * Quel'}",out_of_scope
-"{'role': 'assistant', 'content': 'Voici quelques exemples de phrases générées pour répondre à cette question :\n\n * Quel'}",out_of_scope
-"{'role': 'assistant', 'content': 'Voici une réponse générée :\n\n**Réponse originale** : Quel est le ta'}",out_of_scope
-"{'role': 'assistant', 'content': ""Voici quelques exemples de questions et réponses liées à la valeur d'un dollar au Mex""}",out_of_scope
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour répondre à cette question :\n\n * Quel'}",out_of_scope
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour répondre à cette question :\n\n * Quel'}",out_of_scope
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour répondre à cette question :\n\n * Si je'}",out_of_scope
-"{'role': 'assistant', 'content': 'Voici quelques exemples de réponses avec des variations :\n\n* Un dollar américain est é'}",out_of_scope
-"{'role': 'assistant', 'content': 'Voici quelques exemples de phrases générées :\n\n* Quel est le taux de change'}",out_of_scope
-"{'role': 'assistant', 'content': 'Voici quelques exemples de générations de texte pour répondre à votre demande :\n\n* J'}",book_hotel
-"{'role': 'assistant', 'content': 'Voici quelques exemples de générations de texte pour répondre à votre demande :\n\n* Je'}",book_hotel
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour répondre à votre demande :\n\n* Je recherche'}",book_hotel
-"{'role': 'assistant', 'content': 'Voici quelques exemples de générations de texte pour répondre à votre demande :\n\n * Je'}",book_hotel
-"{'role': 'assistant', 'content': 'Voici quelques exemples de textes générés en fonction de votre demande :\n\n* Je cherche'}",book_hotel
-"{'role': 'assistant', 'content': ""Voici quelques exemples de générations de texte :\n\n * J'ai besoin d'une chambre d""}",book_hotel
-"{'role': 'assistant', 'content': ""Voici quelques variations du texte :\n\n* J'ai besoin d'une chambre d'hôtel assez grande""}",book_hotel
-"{'role': 'assistant', 'content': 'Voici quelques exemples de textes générés en fonction de votre demande :\n\n* Je suis'}",book_hotel
-"{'role': 'assistant', 'content': 'Voici quelques exemples de textes générés :\n\n * Je cherche un hôtel sp'}",book_hotel
-"{'role': 'assistant', 'content': 'Voici quelques exemples de phrases générées pour répondre à votre demande :\n\n* Je cherche'}",book_hotel
-"{'role': 'assistant', 'content': ""Voici quelques exemples de textes générés :\n\n* Je suis à la recherche d'une""}",book_hotel
-"{'role': 'assistant', 'content': ""Voici quelques exemples de textes générés en fonction de votre demande :\n\n* J'ai""}",book_hotel
-"{'role': 'assistant', 'content': ""Voici quelques exemples de générations de texte :\n\n * J'ai besoin d'une chambre d""}",book_hotel
-"{'role': 'assistant', 'content': ""Voici quelques variations possibles :\n\n * Je cherche une chambre d'hôtel spacieuse pour""}",book_hotel
-"{'role': 'assistant', 'content': ""Voici quelques exemples de textes générés :\n\n* Je recherche une chambre d'hô""}",book_hotel
-"{'role': 'assistant', 'content': ""Voici quelques exemples de phrases générées :\n\n* Je recherche une chambre d'hôtel""}",book_hotel
-"{'role': 'assistant', 'content': 'Voici quelques exemples de phrases générées en fonction de votre demande :\n\n* Je recherche un'}",book_hotel
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour répondre à votre demande :\n\n * Je suis'}",book_hotel
-"{'role': 'assistant', 'content': ""Voici quelques exemples de générations de texte :\n\n* Je cherche une chambre d'hô""}",book_hotel
-"{'role': 'assistant', 'content': 'Voici quelques exemples de textes générés en variant les détails :\n\n* Je recherche'}",book_hotel
-"{'role': 'assistant', 'content': ""Voici quelques suggestions d'hôtels avec des critiques décentes à Bangor :\n\n1.""}",book_hotel
-"{'role': 'assistant', 'content': 'Voici quelques exemples de générations de textes pour répondre à votre question :\n\n**'}",book_hotel
-"{'role': 'assistant', 'content': ""Voici quelques suggestions d'hôtels à Bangor avec des critiques décentes :\n\n1.""}",book_hotel
-"{'role': 'assistant', 'content': 'Voici quelques exemples de générations de texte pour répondre à votre question :\n\n**Ex'}",book_hotel
-"{'role': 'assistant', 'content': 'Voici quelques exemples de générations de texte pour répondre à votre question :\n\n**Ex'}",book_hotel
-"{'role': 'assistant', 'content': ""Voici quelques suggestions d'hôtels avec des critiques décentes à Bangor :\n\n1.""}",book_hotel
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour répondre à votre question :\n\n**Exemple'}",book_hotel
-"{'role': 'assistant', 'content': ""Voici quelques suggestions d'hôtels avec des critiques décentes à Bangor :\n\n*  ""}",book_hotel
-"{'role': 'assistant', 'content': ""Voici quelques suggestions d'hôtels avec des critiques décentes à Bangor :\n\n1.""}",book_hotel
-"{'role': 'assistant', 'content': ""Voici quelques suggestions d'hôtels avec des critiques décentes à Bangor :\n\n1.""}",book_hotel
-"{'role': 'assistant', 'content': ""Voici quelques suggestions d'hôtels à Bangor avec des critiques décentes :\n\n1.""}",book_hotel
-"{'role': 'assistant', 'content': 'Voici quelques exemples de réponses générées :\n\n**Original** : Quels hôt'}",book_hotel
-"{'role': 'assistant', 'content': ""Voici quelques suggestions d'hôtels avec des critiques décentes à Bangor :\n\n1.""}",book_hotel
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour répondre à votre question :\n\n**Original**'}",book_hotel
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte :\n\n* Quels sont les hôtels recommand'}",book_hotel
-"{'role': 'assistant', 'content': ""Voici quelques suggestions d'hôtels à Bangor avec des critiques décentes :\n\n1.""}",book_hotel
-"{'role': 'assistant', 'content': 'Voici quelques exemples de générations de texte pour répondre à votre question :\n\n* Qu'}",book_hotel
-"{'role': 'assistant', 'content': ""Voici quelques suggestions d'hôtels à Bangor avec des critiques décentes :\n\n1.""}",book_hotel
-"{'role': 'assistant', 'content': ""Voici quelques suggestions d'hôtels à Bangor avec des critiques décentes :\n\n* Le""}",book_hotel
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour répondre à votre question :\n\n**Exemple'}",book_hotel
-"{'role': 'assistant', 'content': 'Voici quelques informations sur les règles de bagages en cabine pour American Airlines :\n\n**Tail'}",carry_on
-"{'role': 'assistant', 'content': ""Selon les règles d'American Airlines, voici ce que vous pouvez prendre en cabine""}",carry_on
-"{'role': 'assistant', 'content': 'Selon les informations disponibles, voici une réponse :\n\n Vous êtes autorisé à prendre en cabine'}",carry_on
-"{'role': 'assistant', 'content': ""Selon les règles d'emport de bagage cabine d'American Airlines, vous êtes""}",carry_on
-"{'role': 'assistant', 'content': ""Voici quelques exemples de réponses :\n\n * Qu'est-ce que je peux emporter dans mon""}",carry_on
-"{'role': 'assistant', 'content': ""Voici quelques exemples de génération de texte pour répondre à votre question :\n\n* Qu'est""}",carry_on
-"{'role': 'assistant', 'content': '**Bagage cabine American Airlines**\n\nPour American Airlines, le bagage cabine (ou bag'}",carry_on
-"{'role': 'assistant', 'content': ""Voici quelques exemples de génération de texte :\n\n * Qu'est-ce que je peux emporter""}",carry_on
-"{'role': 'assistant', 'content': ""Selon les politiques d'American Airlines, voici les informations que vous pouvez trouver sur les""}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques informations sur les bagages cabine autorisés sur American Airlines :\n\n**Bagages'}",carry_on
-"{'role': 'assistant', 'content': ""Selon les politiques d'American Airlines, voici les informations que je peux vous fournir""}",carry_on
-"{'role': 'assistant', 'content': ""Selon les politiques d'American Airlines, voici les informations que je peux vous fournir""}",carry_on
-"{'role': 'assistant', 'content': ""Selon les règles d'American Airlines, vous pouvez emporter des objets personnels dans""}",carry_on
-"{'role': 'assistant', 'content': ""Selon les règles d'American Airlines, voici ce que vous êtes autorisé à prendre""}",carry_on
-"{'role': 'assistant', 'content': ""Voici une réponse générée :\n\n**Qu'est-ce que je peux emporter dans mon bag""}",carry_on
-"{'role': 'assistant', 'content': ""Voici une réponse générée en fonction de l'exemple :\n\nQu'est-ce que je peux""}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques informations sur les bagages cabine autorisés par American Airlines :\n\n**Taille'}",carry_on
-"{'role': 'assistant', 'content': 'Selon les informations disponibles, voici quelques détails sur les bagages cabine autorisés'}",carry_on
-"{'role': 'assistant', 'content': 'Selon les informations disponibles, voici quelques détails sur les règles de bagage cabine'}",carry_on
-"{'role': 'assistant', 'content': ""Selon les règles d'emport de bagages de American Airlines, vous pouvez emporter un""}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques exemples de générations de texte :\n\n * Dois-je payer pour mes'}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques exemples de réponses similaires :\n\n * Les bagages à main sont-ils'}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques exemples de réponses modifiées :\n\n * Dois-je payer pour mes'}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques exemples de réponses variées :\n\n*   Les bagages à main sont géné'}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques exemples de réponses variées :\n\n * Quels sont les frais pour les bag'}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques exemples de reformulation et de variation :\n\n * Dois-je payer pour mes'}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques exemples de variations :\n\n* Dois-je payer pour mes bagages à main'}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques exemples de reformulation et de traduction :\n\n* Dois-je payer pour'}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques exemples de réponses variées :\n\n*   Les bagages à main sont gratuits'}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques exemples de réponses variées :\n\n * Quels sont les frais pour les bag'}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques exemples de réponses variées :\n\n* Dois-je payer pour mes bag'}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques exemples de reformulation de la question :\n\n * Dois-je payer pour mes'}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques exemples de générations de texte :\n\n * Dois-je payer pour mes'}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques exemples de réponses modifiées :\n\n * Dois-je payer pour mes'}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques exemples de générations de texte :\n\n * Dois-je payer pour mes'}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques exemples de réponses variées :\n\n * Quels sont les frais pour les bag'}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques exemples de réponses modifiées :\n\n * Quels sont les frais pour les'}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques exemples de reformulation de la question :\n\n* Dois-je payer pour mes'}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques exemples de reformulation de la question :\n\n * Dois-je payer pour mes'}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques exemples de reformulation de la question :\n\n * Dois-je payer pour mes'}",carry_on
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour la perte des bagages sur Flight America'}",lost_luggage
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte :\n\n**Exemple 1 : Lieu de'}",lost_luggage
-"{'role': 'assistant', 'content': 'Voici quelques exemples de textes générés en modifiant des détails tout en conserv'}",lost_luggage
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour la perte des bagages sur Flight America'}",lost_luggage
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour la perte des bagages sur Flight America'}",lost_luggage
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour la perte des bagages sur Flight America'}",lost_luggage
-"{'role': 'assistant', 'content': 'Voici quelques exemples de générations de texte basés sur le scénario initial :\n\n'}",lost_luggage
-"{'role': 'assistant', 'content': 'Voici quelques exemples de générations de texte pour la perte des bagages sur Flight'}",lost_luggage
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour la perte des bagages sur Flight America'}",lost_luggage
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour la perte des bagages sur Flight America'}",lost_luggage
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour la perte des bagages sur Flight America'}",lost_luggage
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour la perte des bagages sur Flight America'}",lost_luggage
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour la perte des bagages sur Flight America'}",lost_luggage
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour la perte des bagages sur Flight America'}",lost_luggage
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour la perte des bagages sur Flight America'}",lost_luggage
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour la perte des bagages sur Flight America'}",lost_luggage
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour la perte des bagages sur Flight America'}",lost_luggage
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte :\n\n**Exemple 1 : Lieu différent'}",lost_luggage
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour la perte des bagages sur Flight America'}",lost_luggage
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour la perte de bagages sur Flight America'}",lost_luggage
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour répondre à cette question :\n\n**Exemple'}",travel_alert
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte pour répondre à cette question :\n\n* Est-il'}",travel_alert
-"{'role': 'assistant', 'content': ""Voici quelques exemples de réponses générées en fonction du texte d'origine :\n\n""}",travel_alert
-"{'role': 'assistant', 'content': ""L'Islande est un pays sûr pour les visiteurs, mais comme partout aille""}",travel_alert
-"{'role': 'assistant', 'content': 'Voici quelques exemples de textes générés :\n\n*   Est-il sûr de se rendre'}",travel_alert
-"{'role': 'assistant', 'content': ""La sécurité d'un voyage en Islande dépend de plusieurs facteurs, notamment la saison, les""}",travel_alert
-"{'role': 'assistant', 'content': 'Voici quelques exemples de textes générés pour répondre à cette question :\n\n**Text'}",travel_alert
-"{'role': 'assistant', 'content': ""Voici une réponse générée :\n\nL'Islande est un pays sûr, mais il""}",travel_alert
-"{'role': 'assistant', 'content': 'La sécurité en Islande dépend de plusieurs facteurs, tels que la saison, les activ'}",travel_alert
-"{'role': 'assistant', 'content': ""L'Islande est généralement considérée comme un pays sûr pour les touristes""}",travel_alert
-"{'role': 'assistant', 'content': 'Voici quelques exemples de générations de texte pour répondre à cette question :\n\n * Est'}",travel_alert
-"{'role': 'assistant', 'content': 'Voici une réponse générée à partir de la question :\n\n**Est-il sûr de se rendre'}",travel_alert
-"{'role': 'assistant', 'content': 'Voici quelques exemples de réponses générées :\n\n**Original** : Est-il sûr de'}",travel_alert
-"{'role': 'assistant', 'content': ""Voici une réponse générée en fonction de l'idée principale :\n\n**Réponse origin""}",travel_alert
-"{'role': 'assistant', 'content': 'Voici quelques exemples de textes générés pour répondre à la question ""Est-il'}",travel_alert
-"{'role': 'assistant', 'content': 'La sécurité de se rendre en Islande dépend de plusieurs facteurs, notamment la période de'}",travel_alert
-"{'role': 'assistant', 'content': 'Voici quelques exemples de textes générés en réponse à votre question :\n\n**Texte'}",travel_alert
-"{'role': 'assistant', 'content': 'Voici quelques exemples de générations de textes pour répondre à cette question :\n\n*'}",travel_alert
-"{'role': 'assistant', 'content': 'La sécurité de se rendre en Islande dépend de plusieurs facteurs, notamment de la saison,'}",travel_alert
-"{'role': 'assistant', 'content': ""**La sécurité en Islande**\n\nL'Islande est généralement considérée comme""}",travel_alert
-"{'role': 'assistant', 'content': 'Voici quelques variations de phrases pour votre recherche de vol :\n\n* Je recherche un billet aller-ret'}",book_flight
-"{'role': 'assistant', 'content': 'Voici une réponse générée à partir de votre demande :\n\nJe recherche un vol aller-retour'}",book_flight
-"{'role': 'assistant', 'content': 'Voici quelques exemples de requêtes de vol modifiées :\n\n * Je recherche un vol aller'}",book_flight
-"{'role': 'assistant', 'content': 'Voici une réponse générée à partir de votre requête :\n\nJe cherche un billet d'}",book_flight
-"{'role': 'assistant', 'content': 'Voici une réponse générée à partir de votre demande :\n\n**Demande de vol**\n\nJe'}",book_flight
-"{'role': 'assistant', 'content': 'Voici quelques variations de votre demande :\n\n- Je recherche un vol aller-retour de Paris à Denver'}",book_flight
-"{'role': 'assistant', 'content': 'Voici quelques exemples de requêtes de vol modifiées :\n\n * Je recherche un vol aller'}",book_flight
-"{'role': 'assistant', 'content': 'Voici quelques exemples de textes générés en fonction de votre demande :\n\n* Je recherche'}",book_flight
-"{'role': 'assistant', 'content': 'Voici quelques exemples de requêtes de vol modifiées :\n\n * Je recherche un vol aller'}",book_flight
-"{'role': 'assistant', 'content': 'Voici une réponse générée à partir de votre requête :\n\nJe recherche un vol aller-ret'}",book_flight
-"{'role': 'assistant', 'content': 'Je peux vous aider à générer des textes similaires pour enrichir votre recherche de vol.\n\n'}",book_flight
-"{'role': 'assistant', 'content': ""Voici quelques variations du texte :\n\n- Je cherche un billet d'avion aller-retour de""}",book_flight
-"{'role': 'assistant', 'content': 'Voici une génération de texte en variant les éléments spécifiques :\n\n- Je recherche un'}",book_flight
-"{'role': 'assistant', 'content': 'Voici une réponse générée à partir de votre demande :\n\n**Demande de vol :**\n\n'}",book_flight
-"{'role': 'assistant', 'content': ""Voici une variante du texte :\n\nJ'ai besoin d'un billet aller-retour de CD""}",book_flight
-"{'role': 'assistant', 'content': 'Voici une réponse générée à partir de votre requête :\n\nJe recherche un vol aller-ret'}",book_flight
-"{'role': 'assistant', 'content': 'Voici une réponse générée :\n\nJe recherche un vol aller-retour de CDG à E'}",book_flight
-"{'role': 'assistant', 'content': 'Voici quelques exemples de requêtes de vol générées à partir de votre demande :\n\n-'}",book_flight
-"{'role': 'assistant', 'content': 'Voici quelques exemples de requêtes de vol modifiées :\n\n* Je recherche un vol aller'}",book_flight
-"{'role': 'assistant', 'content': 'Voici une variante du texte original :\n\n Je recherche un vol aller-retour de CDG à'}",book_flight
-"{'role': 'assistant', 'content': 'La traduction de ""C\'est une belle matinée"" en italien est :\n\n""È'}",translate
-"{'role': 'assistant', 'content': 'En italien, vous pouvez dire : ""È una bella mattinata"".\n\nCependant,'}",translate
-"{'role': 'assistant', 'content': 'La traduction de ""C\'est une belle matinée"" en italien est :\n\n""E\''}",translate
-"{'role': 'assistant', 'content': 'En italien, vous pouvez dire : ""È una bella mattinata"".\n\nVoici quelques variations'}",translate
-"{'role': 'assistant', 'content': 'En italien, vous pouvez dire ""È una bella mattinata"" pour exprimer l\'id'}",translate
-"{'role': 'assistant', 'content': 'En italien, vous pouvez dire : ""È una bella mattinata"".\n\nSi vous voulez'}",translate
-"{'role': 'assistant', 'content': 'En italien, vous pouvez dire : ""È una bella mattinata"".\n\nSi vous souhaitez'}",translate
-"{'role': 'assistant', 'content': 'En italien, vous pouvez dire : ""È una bella mattinata"".\n\nVoici quelques autres'}",translate
-"{'role': 'assistant', 'content': 'En italien, vous pouvez dire : ""È una bella mattinata"".\n\nVoici quelques autres'}",translate
-"{'role': 'assistant', 'content': 'En italien, vous pouvez dire : ""È una bella mattinata"".\n\nVoici quelques variations'}",translate
-"{'role': 'assistant', 'content': 'En italien, vous pouvez dire : ""È una bella mattinata"".\n\nVoici quelques autres'}",translate
-"{'role': 'assistant', 'content': 'La traduction de ""C\'est une belle matinée"" en italien est :\n\n""E\''}",translate
-"{'role': 'assistant', 'content': 'En italien, vous pouvez dire ""È una bella mattinata"".\n\nVoici quelques autres faç'}",translate
-"{'role': 'assistant', 'content': 'En italien, vous pouvez dire : ""È una bella mattinata"".\n\nSi vous voulez'}",translate
-"{'role': 'assistant', 'content': 'La traduction de ""C\'est une belle matinée"" en italien est :\n\n""È'}",translate
-"{'role': 'assistant', 'content': 'En italien, vous pouvez dire :\n\n- ""È una bella mattinata"" (formule'}",translate
-"{'role': 'assistant', 'content': 'La traduction de ""C\'est une belle matinée"" en italien est :\n\n""È'}",translate
-"{'role': 'assistant', 'content': 'En italien, vous pouvez dire : ""È una bella mattinata"".\n\nVoici quelques autres'}",translate
-"{'role': 'assistant', 'content': 'En italien, vous pouvez dire : ""È una bella mattinata"" ou simplement ""È'}",translate
-"{'role': 'assistant', 'content': 'En italien, vous pouvez dire : ""È una bella mattinata"".\n\nVoici quelques autres'}",translate
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte :\n\n* Quand puis-je monter à'}",flight_status
-"{'role': 'assistant', 'content': 'Voici quelques exemples de variations :\n\n * Quand puis-je monter à bord de mon'}",flight_status
-"{'role': 'assistant', 'content': ""Voici quelques exemples de reformulation de la question :\n\n* Quelle est l'heure de""}",flight_status
-"{'role': 'assistant', 'content': 'Voici quelques variantes :\n\n * Quand puis-je monter à bord de mon avion'}",flight_status
-"{'role': 'assistant', 'content': 'Voici quelques exemples de réponses modifiées :\n\n* Quand puis-je embarquer'}",flight_status
-"{'role': 'assistant', 'content': 'Voici quelques exemples de formulations différentes :\n\n * Quand puis-je monter à bord de'}",flight_status
-"{'role': 'assistant', 'content': 'Voici quelques exemples de réponses modifiées :\n\n* Quand puis-je monter'}",flight_status
-"{'role': 'assistant', 'content': 'Voici quelques exemples de reformulation de la phrase :\n\n* Quand puis-je monter'}",flight_status
-"{'role': 'assistant', 'content': 'Voici quelques exemples de reformulation et de traduction :\n\n* Quand allons-nous'}",flight_status
-"{'role': 'assistant', 'content': 'Voici quelques exemples de reformulation de la question :\n\n * Quand puis-je monter'}",flight_status
-"{'role': 'assistant', 'content': 'Voici quelques exemples de reformulation de la phrase :\n\n* Quand puis-je monter'}",flight_status
-"{'role': 'assistant', 'content': 'Voici quelques exemples de réponses générées :\n\n * Quand puis-je embarquer'}",flight_status
-"{'role': 'assistant', 'content': 'Voici quelques exemples de génération de texte :\n\n * Quand allons-nous commencer'}",flight_status
-"{'role': 'assistant', 'content': 'Voici quelques exemples de reformulation de la phrase :\n\n* Quand puis-je monter'}",flight_status
-"{'role': 'assistant', 'content': 'Voici quelques exemples de variations :\n\n * Quand pourrai-je monter à bord de'}",flight_status
-"{'role': 'assistant', 'content': 'Voici quelques exemples de reformulation et de variation :\n\n * Quand allons-nous embar'}",flight_status
-"{'role': 'assistant', 'content': 'Voici quelques exemples de variations :\n\n* Quand puis-je monter à bord de mon'}",flight_status
-"{'role': 'assistant', 'content': 'Voici quelques exemples de réponses variées :\n\n * Quand puis-je embarquer dans'}",flight_status
-"{'role': 'assistant', 'content': 'Voici quelques variantes :\n\n- Quand puis-je monter dans mon avion?\n-'}",flight_status
-"{'role': 'assistant', 'content': ""Voici quelques exemples de reformulation de la phrase :\n\n * Quelle est l'heure de""}",flight_status
-"{'role': 'assistant', 'content': ""Voici quelques suggestions de phrases générées en fonction de l'idée principale :\n\n* Qu""}",travel_suggestion
-"{'role': 'assistant', 'content': ""Voici quelques suggestions de phrases générées pour répondre à la question :\n\n* Qu'est-ce""}",travel_suggestion
-"{'role': 'assistant', 'content': 'Nashville, connue pour son riche patrimoine musical et ses rythmes de'}",travel_suggestion
-"{'role': 'assistant', 'content': 'Voici quelques suggestions pour te faire découvrir la ville de Nashville :\n\n- **Visite du Country Music'}",travel_suggestion
-"{'role': 'assistant', 'content': ""Voici quelques exemples de phrases générées pour enrichir le dataset :\n\n * Qu'est-ce""}",travel_suggestion
-"{'role': 'assistant', 'content': 'Nashville, connue pour son ambiance musicale vibrante et son patrimoine riche'}",travel_suggestion
-"{'role': 'assistant', 'content': 'Voici quelques idées de choses que vous pouvez faire à Nashville :\n\n- Visitez le Country Music'}",travel_suggestion
-"{'role': 'assistant', 'content': 'Voici quelques idées de choses que vous pouvez faire à Nashville :\n\n- Visitez le Country Music'}",travel_suggestion
-"{'role': 'assistant', 'content': 'Nashville, connue pour son riche patrimoine musical, offre une variété d'}",travel_suggestion
-"{'role': 'assistant', 'content': 'Voici quelques exemples de phrases générées en réponse à ""Que puis-je faire à'}",travel_suggestion
-"{'role': 'assistant', 'content': 'Voici quelques idées de choses à faire à Nashville :\n\n1.  **Visiter le Grand'}",travel_suggestion
-"{'role': 'assistant', 'content': 'Voici quelques idées de choses que vous pouvez faire à Nashville :\n\n * Visitez le Country Music'}",travel_suggestion
-"{'role': 'assistant', 'content': 'Voici quelques idées de choses à faire à Nashville :\n\n * Visiter le Country Music Hall of'}",travel_suggestion
-"{'role': 'assistant', 'content': 'Nashville, connue pour sa richesse musicale et son ambiance festive! Voici quelques'}",travel_suggestion
-"{'role': 'assistant', 'content': 'Nashville, connue pour sa richesse musicale et son ambiance festive, offre une vari'}",travel_suggestion
-"{'role': 'assistant', 'content': ""Voici quelques suggestions de réponses :\n\n* Qu'est-ce que je peux faire à Memphis?\n*""}",travel_suggestion
-"{'role': 'assistant', 'content': 'Nashville, la ville de la musique country! Voici quelques suggestions de choses à faire à'}",travel_suggestion
-"{'role': 'assistant', 'content': 'Nashville, connue pour sa musique country et son ambiance festive. Voici quelques idées'}",travel_suggestion
-"{'role': 'assistant', 'content': 'Voici quelques idées de choses que vous pouvez faire à Nashville :\n\n* Visitez le Musée'}",travel_suggestion
-"{'role': 'assistant', 'content': 'Voici quelques suggestions de phrases générées en fonction de l\'idée principale ""Que puis'}",travel_suggestion
-"{'role': 'assistant', 'content': 'La question de la meilleure cave du sud de la France est subjective et peut varier en fonction des'}",travel_suggestion
-"{'role': 'assistant', 'content': 'La question des meilleures caves du sud de la France est subjective et dépend de vos préfé'}",travel_suggestion
-"{'role': 'assistant', 'content': 'La question de la meilleure cave du sud de la France est subjective et peut varier en fonction des'}",travel_suggestion
-"{'role': 'assistant', 'content': 'La question de la meilleure cave du sud de la France est subjective et peut varier en fonction des'}",travel_suggestion
-"{'role': 'assistant', 'content': 'La région du sud de la France est réputée pour ses vignobles prestigieux et'}",travel_suggestion
-"{'role': 'assistant', 'content': 'Voici une réponse générée :\n\n""La meilleure cave du sud de la France est certainement'}",travel_suggestion
-"{'role': 'assistant', 'content': 'Voici quelques suggestions de réponses :\n\n*   **Reformulation** : La région du L'}",travel_suggestion
-"{'role': 'assistant', 'content': 'La question de la meilleure cave du sud de la France est subjective et peut varier en fonction des'}",travel_suggestion
-"{'role': 'assistant', 'content': 'La région du sud de la France est réputée pour sa production de vins de qualité,'}",travel_suggestion
-"{'role': 'assistant', 'content': 'Voici quelques suggestions de réponses pour répondre à cette question :\n\n**Réponse 1 :'}",travel_suggestion
-"{'role': 'assistant', 'content': 'La question de la meilleure cave du sud de la France est subjective et dépend de critères t'}",travel_suggestion
-"{'role': 'assistant', 'content': 'La région du sud de la France est réputée pour ses vignobles et ses caves exception'}",travel_suggestion
-"{'role': 'assistant', 'content': 'La question de la meilleure cave du sud de la France est subjective et peut varier en fonction des'}",travel_suggestion
-"{'role': 'assistant', 'content': 'La question de la meilleure cave du sud de la France est subjective et dépend de préférenc'}",travel_suggestion
-"{'role': 'assistant', 'content': 'La région du sud de la France est réputée pour ses caves et ses vins de qualité'}",travel_suggestion
-"{'role': 'assistant', 'content': 'La question de la meilleure cave du sud de la France est subjective et peut varier en fonction des'}",travel_suggestion
-"{'role': 'assistant', 'content': 'La question de la meilleure cave du sud de la France est subjective et peut varier en fonction des'}",travel_suggestion
-"{'role': 'assistant', 'content': 'La question de la meilleure cave du sud de la France est subjective et peut varier en fonction des'}",travel_suggestion
-"{'role': 'assistant', 'content': 'Voici une réponse générée en fonction de la question :\n\nLa région du Languedoc'}",travel_suggestion
-"{'role': 'assistant', 'content': 'La question de la meilleure cave du sud de la France est subjective et peut varier en fonction des'}",travel_suggestion
+"Obtenir un diplôme de fin d'études secondaires offre plusieurs avantages, notamment :
+
+",out_of_scope
+Terminer le lycée offre plusieurs avantages importants dans la vie d'un individu.,out_of_scope
+"Terminer le lycée offre plusieurs avantages importants pour votre avenir :
+
+- **Acc",out_of_scope
+Terminer le lycée offre plusieurs avantages importants pour votre avenir. Voici quelques,out_of_scope
+"Terminer le lycée offre de nombreux avantages, notamment : 
+
+- Une formation plus appro",out_of_scope
+"Obtenir un diplôme de lycée offre plusieurs avantages, notamment : 
+
+- Acc",out_of_scope
+"Terminer le lycée offre de nombreux avantages, notamment : 
+
+- Une meilleure perspective d",out_of_scope
+"Terminer le lycée offre plusieurs avantages, notamment :
+
+- L'obtention d",out_of_scope
+"Terminer le lycée offre de nombreux avantages, notamment :
+
+- Une meilleure qualification et un",out_of_scope
+"Terminer le lycée offre de nombreux avantages, notamment :
+
+- L'obtention",out_of_scope
+"Terminer le lycée offre plusieurs avantages, notamment :
+
+- Une formation de qualité : Le",out_of_scope
+Terminer le lycée offre plusieurs avantages importants dans la vie de l'individ,out_of_scope
+"Terminer le lycée offre plusieurs avantages, notamment :
+
+- Une meilleure qualification et un acc",out_of_scope
+"Terminer le lycée offre plusieurs avantages, notamment :
+
+- Une formation académique sol",out_of_scope
+"Terminer le lycée offre plusieurs avantages :
+
+- Amélioration des perspectives d'emploi",out_of_scope
+"Terminer le lycée offre plusieurs avantages, notamment :
+
+- Une meilleure opportunité d",out_of_scope
+Terminer le lycée offre plusieurs avantages importants dans la vie d'un individu.,out_of_scope
+"Terminer le lycée offre plusieurs avantages, notamment :
+
+- Une meilleure perspective d'aven",out_of_scope
+"Obtenir un diplôme de fin d'études secondaires offre de nombreux avantages, notamment",out_of_scope
+"Terminer le lycée offre de nombreux avantages, notamment :
+
+- L'accès à des",out_of_scope
+La capitale du Pakistan est Islamabad.,out_of_scope
+La capitale du Pakistan est Islamabad.,out_of_scope
+La capitale du Pakistan est Islamabad.,out_of_scope
+La capitale du Pakistan est Islamabad.,out_of_scope
+La capitale du Pakistan est Islamabad.,out_of_scope
+La capitale du Pakistan est Islamabad.,out_of_scope
+La capitale du Pakistan est Islamabad.,out_of_scope
+La capitale du Pakistan est Islamabad.,out_of_scope
+La capitale du Pakistan est Islamabad.,out_of_scope
+La capitale du Pakistan est Islamabad.,out_of_scope
+La capitale du Pakistan est Islamabad.,out_of_scope
+La capitale du Pakistan est Islamabad.,out_of_scope
+La capitale du Pakistan est Islamabad.,out_of_scope
+La capitale du Pakistan est Islamabad.,out_of_scope
+La capitale du Pakistan est Islamabad.,out_of_scope
+La capitale du Pakistan est Islamabad.,out_of_scope
+La capitale du Pakistan est Islamabad.,out_of_scope
+La capitale du Pakistan est Islamabad.,out_of_scope
+La capitale du Pakistan est Islamabad.,out_of_scope
+La capitale du Pakistan est Islamabad.,out_of_scope
+"Nick Fury est apparu dans 11 films de l'univers Marvel, mais si vous voulez",out_of_scope
+"Nick Fury a apparu dans le plus de films Marvel, avec un total de 9 apparitions",out_of_scope
+Nick Fury apparaît dans 8 films de l'univers Marvel.,out_of_scope
+Nick Fury apparaît dans huit films du MCU.,out_of_scope
+"Nick Fury a apparu dans 10 films, mais ce record est dépassé par Nick Fury",out_of_scope
+Nick Fury est apparu dans 8 films Marvel.,out_of_scope
+Nick Fury apparaît dans le plus de films Marvel.,out_of_scope
+Nick Fury est apparu dans 7 films.,out_of_scope
+Nick Fury a apparu dans le plus de films Marvel.,out_of_scope
+Nick Fury apparaît dans le plus de films Marvel.,out_of_scope
+Nick Fury a apparu dans 8 films Marvel.,out_of_scope
+"Nick Fury est apparu dans 10 films Marvel, mais le personnage Marvel qui a apparu",out_of_scope
+"Nick Fury apparaît dans 11 films de l'univers Marvel, dont le film Captain Marvel",out_of_scope
+Nick Fury a apparu dans le plus de films de l'univers Marvel.,out_of_scope
+"Nick Fury apparaît dans 10 films, mais c'est Iron Man, Thor, Captain America",out_of_scope
+"Le personnage Marvel qui a apparu dans le plus de films est Nick Fury, interprété",out_of_scope
+"Nick Fury a apparu dans 9 films Marvel, et Iron Man / Tony Stark dans 10",out_of_scope
+Nick Fury a apparu dans 7 films Marvel.,out_of_scope
+Nick Fury est apparu dans 11 films de l'univers Marvel.,out_of_scope
+Nick Fury a été joué par Samuel L. Jackson dans 12 films Marvel.,out_of_scope
+Le taux de change du dollar américain au peso mexicain peut varier en fonction,out_of_scope
+Le taux de change du dollar américain (USD) au peso mexicain (MX,out_of_scope
+Le taux de change du dollar américain (USD) par rapport au peso mexicain,out_of_scope
+Le taux de change du dollar américain au peso mexicain peut varier en fonction,out_of_scope
+Le taux de change du dollar américain au peso mexicain peut varier en fonction,out_of_scope
+Le taux de change du dollar américain au peso mexicain peut varier en fonction,out_of_scope
+Le taux de change entre le dollar américain et le peso mexicain peut varier,out_of_scope
+Le taux de change entre le dollar américain et le peso mexicain peut varier,out_of_scope
+Le taux de change entre le dollar américain et le peso mexicain peut varier,out_of_scope
+Le taux de change du dollar américain au peso mexicain peut varier en fonction,out_of_scope
+"Selon le taux de change actuel, un dollar américain équivaut à environ",out_of_scope
+Le taux de change du dollar américain (USD) au peso mexicain (MX,out_of_scope
+Le taux de change du dollar américain au peso mexicain peut varier en fonction,out_of_scope
+Le taux de change du dollar américain au peso mexicain varie en fonction des,out_of_scope
+"Selon le taux de change actuel, un dollar américain vaut environ 20",out_of_scope
+Le taux de change entre le dollar américain et le peso mexicain peut varier,out_of_scope
+"Selon les taux de change actuels, un dollar américain (USD) vaut",out_of_scope
+Le taux de change entre le dollar américain et le peso mexicain peut varier,out_of_scope
+Le taux de change entre le dollar américain et le peso mexicain peut varier,out_of_scope
+Le taux de change entre le dollar américain et le peso mexicain peut varier,out_of_scope
+Je cherche une chambre d'hôtel spacieuse pour 4 personnes pour les jours du l,book_hotel
+Je cherche une chambre d'hôtel spacieuse pour 4 personnes du 31 juillet,book_hotel
+Je cherche une chambre d'hôtel spacieuse pour 4 personnes du lundi au mer,book_hotel
+Je suis à la recherche d'une chambre d'hôtel spacieuse pour 4 personnes à,book_hotel
+Je suis en train de réserver une suite familiale pour 4 personnes du lundi au mer,book_hotel
+Je recherche des chambres d'hôtel spacieuses pour 4 personnes à Lakewood,book_hotel
+Je suis en train de rechercher un hôtel à Lakewood qui convient à vos bes,book_hotel
+Je recherche un hôtel avec des chambres familiales à Lakewood pour 3 nu,book_hotel
+"Je suis désolé, mais je ne peux pas fournir d'informations ou de conseils",book_hotel
+Je suis à la recherche d'une suite d'hôtel spacieuse pouvant accueill,book_hotel
+Je recherche une suite d'hôtel spacieuse pour 4 personnes du 29 juillet,book_hotel
+Je recherche des chambres d'hôtel spacieuses pour 4 personnes à Lakewood,book_hotel
+"Je suis désolé, mais je ne peux pas fournir d'informations sur des lie",book_hotel
+Je recherche une suite familiale pour 4 personnes du 3 au 5 juillet à Lak,book_hotel
+Je suis à la recherche d'une chambre d'hôtel spacieuse pour 4 personnes à,book_hotel
+Je suis à la recherche d'une chambre d'hôtel spacieuse pour 4 personnes qui,book_hotel
+"Je suis désolé, mais je ne peux pas fournir d'informations sur les hé",book_hotel
+Je recherche une chambre d'hôtel spacieuse pour 4 personnes du lundi au mer,book_hotel
+"Je suis à la recherche d'une chambre d'hôtel spacieuse pour 4 personnes,",book_hotel
+Je recherche une suite familiale pour 4 personnes du lundi au mercredi à Lakewood,book_hotel
+"Voici quelques suggestions d'hôtels avec des critiques décentes à Bangor :
+
+- Le",book_hotel
+"Voici quelques exemples de phrases générées :
+
+- Quels sont les meilleurs hôtels",book_hotel
+"Voici quelques suggestions d'hôtels avec des critiques décentes à Bangor :
+
+- L",book_hotel
+"Voici quelques suggestions d'hôtels avec des critiques décentes à Bangor :
+
+* Le",book_hotel
+"Voici quelques suggestions d'hôtels à Bangor avec des critiques décentes :
+
+- Le",book_hotel
+"Voici quelques suggestions d'hôtels avec des critiques décentes à Bangor :
+
+- Le",book_hotel
+"Voici quelques exemples de phrases générées :
+
+- Quels hôtels ont des critiques",book_hotel
+"Voici quelques exemples de phrases générées :
+
+* Lesquels sont les meilleurs hôt",book_hotel
+"Voici quelques suggestions d'hôtels avec des critiques décentes à Bangor :
+
+- Le",book_hotel
+"Voici quelques suggestions :
+
+* Quels hôtels ont des critiques positives à Montréal?
+*",book_hotel
+"Voici quelques suggestions d'hôtels avec des critiques décentes à Bangor :
+
+- Le",book_hotel
+"Voici quelques suggestions d'hôtels à Bangor avec des critiques décentes :
+
+- L",book_hotel
+"Voici quelques exemples de phrases générées :
+
+- Quels hôtels ont de bon",book_hotel
+"Voici quelques exemples de phrases générées :
+
+* Quels sont les meilleurs hôtels",book_hotel
+"Voici quelques suggestions d'hôtels avec des critiques décentes à Bangor :
+
+* Le",book_hotel
+"Voici quelques hôtels à Bangor avec des critiques décentes :
+
+* Le Manoir",book_hotel
+"Voici quelques suggestions d'hôtels avec des critiques décentes à Bangor :
+
+- L",book_hotel
+"Voici quelques suggestions d'hôtels avec des critiques décentes à Bangor :
+
+- L",book_hotel
+"Voici quelques suggestions :
+
+- Les hôtels avec de bonnes critiques à Bangor incluent",book_hotel
+"Voici quelques exemples de phrases générées :
+
+- Quels sont les meilleurs hôtels",book_hotel
+Les bagages cabine de American Airlines sont autorisés à contenir des objets de petite,carry_on
+"Selon les règles d'American Airlines, vous êtes autorisé à prendre en cabine les",carry_on
+"Selon les règles d'American Airlines, vous êtes autorisé à prendre en cabine un",carry_on
+"Les bagages cabine d'American Airlines ont des restrictions de taille et de poids. 
+
+Vo",carry_on
+"Selon les règles d'American Airlines, vous êtes autorisé à emporter un bagage",carry_on
+Les bagages cabine d'American Airlines sont soumis à certaines règles et restrictions.,carry_on
+"Selon les règles d'American Airlines, vous pouvez prendre en cabine un maximum de ",carry_on
+"Vous pouvez emporter des objets de petite taille, tels que des sacs à main,",carry_on
+"Selon les règles d'American Airlines, vous pouvez prendre en cabine un bagage de",carry_on
+"American Airlines autorise les bagages cabine de 22 pouces de longueur, 14",carry_on
+Selon les règles d'emport d'objets dans les cabines des avions d,carry_on
+"Selon les règles d'emport de cabine d'American Airlines, vous êtes autorisé",carry_on
+"Les bagages cabine d'American Airlines autorisent les objets suivants :
+
+* Une",carry_on
+"Selon les règles d'American Airlines, vous pouvez prendre en cabine un bagage de",carry_on
+"Selon les règles d'American Airlines, vous êtes autorisé à prendre en cabine un",carry_on
+Vous pouvez emporter un bagage cabine de 22 pouces (56 cm) x ,carry_on
+Vous êtes autorisé à emporter 1 objet de bagage cabine d'une taille maximale,carry_on
+Vous pouvez apporter un bagage cabine de 22 pouces (56 cm) de long,carry_on
+Les bagages cabine de American Airlines sont limités à 22 pouces (56 cm),carry_on
+Les bagages cabine de American Airlines ont des dimensions maximales de 22 pouces de long,carry_on
+"Les bagages à main sont généralement gratuits, mais il est important de vérifier les rè",carry_on
+"Quel est le coût des bagages à main sur mon vol? 
+Puis-je",carry_on
+"Combien de kilos peuvent-ils peser dans mon bagage à main? 
+Puis",carry_on
+Le tarif des bagages à main varie en fonction de l'airline et du type de,carry_on
+"Combien coûte la taxe pour les bagages à main? 
+Puis-je",carry_on
+"- Combien de kilos puis-je mettre dans mon bagage cabine?
+- Y a",carry_on
+"Les bagages à main sont généralement gratuits, mais certains transporteurs aériens peuvent im",carry_on
+"Combien de kilos de bagages à main suis-je autorisé à emporter? 
+",carry_on
+"Les bagages à main sont généralement gratuits, mais il est recommandé de vérifier avec",carry_on
+Le coût des bagages à main peut varier selon l'opérateur aéri,carry_on
+"Combien coûte la gratuité des bagages à main sur mon vol? 
+Dois",carry_on
+"Combien de kilos je peux mettre dans mon bagage cabine? 
+Puis-je",carry_on
+"Combien de kilos de bagages à main sont gratuits? 
+Dois-je payer pour",carry_on
+"La plupart des compagnies aériennes ne facturent pas les bagages à main,",carry_on
+"Combien de kilos de bagages à main peux-je emporter gratuitement? 
+Puis",carry_on
+Combien de kilos de bagages à main sont autorisés sans frais supplémentaires?,carry_on
+Le tarif des bagages à main varie en fonction de l'opérateur aéri,carry_on
+"Les bagages à main sont généralement gratuits, mais il est possible que certaines compagnies",carry_on
+"Quel est le coût maximum pour les bagages à main dans l'avion? 
+P",carry_on
+"Les bagages à main sont généralement gratuits, mais il est recommandé de vérifier avec",carry_on
+Je suis désolé d'apprendre que vous avez subi la perte de vos bag,lost_luggage
+"Voici quelques exemples de phrases générées :
+
+- J'ai perdu mes bagages lors",lost_luggage
+"Voici quelques exemples de phrases générées :
+
+- J'ai perdu mes bagages sur",lost_luggage
+"Voici quelques exemples de phrases générées :
+
+* J'ai perdu mes bagages sur",lost_luggage
+"Voici quelques exemples de phrases générées :
+
+- J'ai perdu mes bagages sur",lost_luggage
+"Voici quelques exemples de phrases générées :
+
+- J'ai perdu mon bagage sur",lost_luggage
+"Voici quelques exemples de phrases générées :
+
+- J'ai perdu mes bagages lors",lost_luggage
+"Voici quelques exemples de phrases générées :
+
+* J'ai perdu mes bagages sur",lost_luggage
+"Voici quelques exemples de phrases générées :
+
+- J'ai perdu mes bagages sur",lost_luggage
+Je suis désolé d'entendre que vos bagages ont disparu après votre vol,lost_luggage
+"Voici quelques exemples de phrases générées :
+
+* J'ai perdu mon bagage sur",lost_luggage
+"Voici quelques exemples de phrases générées à partir de l'original :
+
+- J'ai",lost_luggage
+"Voici quelques exemples de phrases générées :
+
+- J'ai perdu mes bagages lors",lost_luggage
+"Voici quelques exemples de phrases générées à partir de l'exemple original :
+
+* J",lost_luggage
+"Voici quelques exemples de phrases générées à partir de l'exemple original :
+
+- J",lost_luggage
+"Voici quelques exemples de phrases générées :
+
+- J'ai perdu mon bagage sur",lost_luggage
+"Voici quelques exemples de phrases générées à partir de la phrase d'origine :
+
+",lost_luggage
+Je me suis rendu compte que mes bagages ont disparu lors de mon vol sur American Airlines,lost_luggage
+"Voici quelques exemples de phrases générées à partir de l'original :
+
+- J'ai",lost_luggage
+"Voici quelques exemples de phrases générées :
+
+- J'ai perdu mes bagages sur",lost_luggage
+"La sécurité en Islande dépend de plusieurs facteurs, notamment la saison, le type d'",travel_alert
+"L'Islande est considérée comme un pays sûr, mais il est toujours important de",travel_alert
+"La sécurité en Islande dépend de plusieurs facteurs tels que la saison, le lieu et",travel_alert
+L'Islande est généralement considérée comme un pays sûr pour les touristes,travel_alert
+"La sécurité du voyage en Islande dépend de plusieurs facteurs, notamment la saison, le type",travel_alert
+"La sécurité en Islande dépend de plusieurs facteurs, notamment de la saison et de l'",travel_alert
+"La sécurité de se rendre en Islande dépend de plusieurs facteurs, notamment la période de",travel_alert
+"L'Islande est considérée comme un pays relativement sûr, avec un taux",travel_alert
+"La sécurité d'un voyage en Islande dépend de plusieurs facteurs tels que la saison,",travel_alert
+"La sécurité d'un voyage en Islande dépend de plusieurs facteurs, notamment la période de",travel_alert
+"L'Islande est considérée comme un pays relativement sûr, mais comme partout",travel_alert
+L'Islande est généralement considérée comme un pays sûr pour les touristes,travel_alert
+"L'Islande est considérée comme un pays relativement sûr, mais il est toujours",travel_alert
+"La sécurité de se rendre en Islande dépend de plusieurs facteurs, notamment la saison, le",travel_alert
+La sécurité de se rendre en Islande dépend de plusieurs facteurs tels que la période,travel_alert
+"L'Islande est considérée comme un pays relativement sûr pour les touristes,",travel_alert
+"La sécurité en Islande est généralement bonne, mais comme partout ailleurs, il",travel_alert
+L'Islande est généralement considérée comme un pays sûr pour les touristes,travel_alert
+"La sécurité de se rendre en Islande dépend de plusieurs facteurs, notamment la période de",travel_alert
+"L'Islande est considérée comme un pays sûr pour les touristes, mais comme",travel_alert
+"Je suis désolé, mais je ne peux pas fournir d'informations sur des v",book_flight
+"Je suis désolé, mais je ne peux pas vous aider à trouver un vol. 
+
+Si",book_flight
+Je recherche un vol aller-retour de Paris à New York du 23 février au 28,book_flight
+"Je suis désolé, mais je ne peux pas fournir d'informations sur les v",book_flight
+Je peux vous aider à trouver des vols aller-retour de AAF (Aéroport international,book_flight
+Je recherche un vol aller-retour de Lille à Denver du 23 février au 28,book_flight
+Je cherche un billet aller-retour de l'aéroport de Fort Lauderdale-Hollywood (F,book_flight
+Je suis en train de rechercher des vols aller-retour entre l'aéroport de Fayette,book_flight
+Je cherche un vol aller-retour de JFK à MIA du 15 mars au 20 mars,book_flight
+Je recherche un vol aller-retour de LAX à DEN du 20 février au 25,book_flight
+Je recherche un vol aller-retour de Paris à Denver du 23 février au 28 fé,book_flight
+Je cherche un billet d'avion aller-retour de l'aéroport de Fort Lauderdale (,book_flight
+Je recherche un vol aller-retour de l'aéroport d'Alger à l'aéro,book_flight
+Je peux vous aider à trouver un vol. Je recommande de consulter les sites de réservation,book_flight
+Je cherche un billet aller-retour de AAF à DIA pour les dates du 23,book_flight
+Je suis en train de rechercher des vols aller-retour de l'aéroport d',book_flight
+"Je peux vous aider à trouver un vol qui correspond à vos besoins. 
+
+Je recherche des v",book_flight
+Je recherche un vol aller-retour de Paris à New York du 23 au 28 février,book_flight
+"Je suis désolé, je ne peux pas vous aider avec cela.",book_flight
+Je recherche un vol aller-retour de JFK à SEA du 15 mars au 22 mars.,book_flight
+È una bella mattinata.,translate
+"""Sono una bella mattinata""",translate
+Sarebbe una bella mattinata.,translate
+"La traduction de ""C'est une belle matinée"" en italien est : ""È",translate
+"""Sono una mattina bella.""",translate
+"""È una bella mattinata.""",translate
+È una bella mattinata.,translate
+"La traduction de ""C'est une belle matinée"" en italien est : ""È",translate
+"""Sono una bella mattinata.""",translate
+Sarebbe una bella mattinata.,translate
+"La traduction de ""C'est une belle matinée"" en italien est : ""È",translate
+"""Sono una bella mattinata.""",translate
+"La traduction de ""C'est une belle matinée"" en italien est : ""È",translate
+"""Sono una bella mattinata""",translate
+"""Sembra una bella giornata""",translate
+È una bella mattinata.,translate
+Sarebbe una bella mattinata.,translate
+"La traduction de ""C'est une belle matinée"" en italien est : ""È",translate
+"La traduction de ""C'est une belle matinée"" en italien est : ""È",translate
+È una bella mattinata.,translate
+Nous allons probablement commencer à monter à bord de mon avion prévu à ,flight_status
+Pouvez-vous me dire à quelle heure votre vol est prévu pour décoller?,flight_status
+Quand puis-je prendre place à bord de mon avion prévu?,flight_status
+Quand dois-je me présenter à la porte d'embarquement pour mon vol international,flight_status
+Quand dois-je m'assoir à bord de mon avion?,flight_status
+"Quand puis-je monter dans l'avion? 
+Quelle est l'heure d",flight_status
+"Quand puis-je embarquer dans mon avion prévu? 
+Quand puis-je",flight_status
+Quand puis-je commencer à embarquer sur mon avion?,flight_status
+"Quand puis-je embarquer pour mon vol? 
+Quand est-ce que je peux mon",flight_status
+"Quand puis-je embarquer pour mon vol? 
+Quand dois-je arriver à",flight_status
+"Quand puis-je embarquer dans mon avion prévu? 
+Quand puis-je",flight_status
+"Nous allons vous avertir de l'heure de check-in, puis vous devrez vous",flight_status
+"Pouvez-vous me dire à quelle heure est mon vol prévu? 
+Puis-je",flight_status
+"Quand dois-je présenter mon billet pour mon vol?
+
+Quand puis-je embar",flight_status
+Pouvez-vous m'indiquer l'heure de départ prévue de mon vol?,flight_status
+"Quand dois-je me présenter à la porte d'embarquement pour mon vol?
+
+",flight_status
+"Quand puis-je commencer à monter à bord de mon avion? 
+Quand",flight_status
+Pouvez-vous me donner l'heure exacte de mon vol afin de vérifier si le,flight_status
+"Quand devrais-je me rendre à l'aéroport pour mon vol? 
+Quand",flight_status
+Nous allons commencer à monter à bord de l'avion 30 minutes avant le départ,flight_status
+"Vous pouvez visiter le Grand Ole Opry, explorer le Parc national de la rivière Cumberland",travel_suggestion
+"Nashville est une ville riche en histoire et en culture, avec de nombreux endroits",travel_suggestion
+"Vous pouvez visiter le Grand Ole Opry, explorer le Musée Country Music Hall of Fame et",travel_suggestion
+"Vous pouvez visiter le Country Music Hall of Fame and Museum, explorer le quartier de Broadway,",travel_suggestion
+Nashville est une ville vibrante qui offre une variété d'activités pour tous les,travel_suggestion
+"Vous pouvez visiter le Grand Ole Opry, explorer le musée Country Music Hall of Fame and",travel_suggestion
+"Vous pouvez visiter le Country Music Hall of Fame and Museum, explorer le Ryman Auditorium,",travel_suggestion
+Visitez le Country Music Hall of Fame and Museum pour découvrir l'histoire de la musique country.,travel_suggestion
+"Nashville est une ville vibrante et pleine de vie, il y a beaucoup de choses",travel_suggestion
+"Nashville est une ville animée connue pour son scène musicale vibrante, ses",travel_suggestion
+"Nashville est une ville vibrante et pleine de vie, il y a beaucoup de choses",travel_suggestion
+"Vous pouvez visiter le Country Music Hall of Fame and Museum, explorer le Ryman Auditorium,",travel_suggestion
+"Vous pouvez visiter le Country Music Hall of Fame and Museum, explorer le centre-ville de Nashville",travel_suggestion
+"Vous pouvez visiter le Grand Ole Opry, explorer le Parc national de la Rivière Cumberland",travel_suggestion
+"Vous pouvez visiter le Grand Ole Opry, explorer le Musée national de la musique country,",travel_suggestion
+Nashville est une ville animée connue pour sa scène musicale vibrante et son,travel_suggestion
+"Visitez le Country Music Hall of Fame and Museum, explorez la scène musicale de la",travel_suggestion
+"Nashville est une ville vibrante et pleine de vie, avec une riche histoire music",travel_suggestion
+"Nashville est une ville vibrante avec une riche histoire musicale, une cuisine délic",travel_suggestion
+"Vous pouvez visiter le Country Music Hall of Fame and Museum, explorer le vibrant quartier de Broadway",travel_suggestion
+La région de Gaillac dans le Tarn est réputée pour ses vins rouges de,travel_suggestion
+"La région de l'Aude est réputée pour ses caves de vin, notamment celles de",travel_suggestion
+"La région du Roussillon, en particulier la ville de Rivesaltes, est conn",travel_suggestion
+"La région de l'Aude, en particulier les villages de Minervois et de Corbi",travel_suggestion
+"La région de Carcassonne, dans l'Aude, est réputée pour ses caves",travel_suggestion
+"La région du sud de la France est réputée pour ses vins de qualité, et il",travel_suggestion
+"La cave de Minervois à Saint-Chinian, dans l'Hérault, est ré",travel_suggestion
+"La région de la vallée du Rhône, notamment les communes de Châtea",travel_suggestion
+La meilleure cave du sud de la France est probablement la Château Lafon-Rochet,travel_suggestion
+"La cave Château Lafon-Rochet, située à Saint-Sulpice, dans",travel_suggestion
+"La région de la Drôme est réputée pour ses caves à vin, mais si je dev",travel_suggestion
+La région de la Provence-Alpes-Côte d'Azur est réputée pour ses,travel_suggestion
+"La région du Languedoc-Roussillon, notamment les vignobles de Minerv",travel_suggestion
+"La région de l'Hérault est réputée pour ses caves exceptionnelles, mais je",travel_suggestion
+"La région du Languedoc-Roussillon, dans le sud de la France, ab",travel_suggestion
+"La région de Carcassonne est réputée pour ses caves à vin exceptionnelles,",travel_suggestion
+La cave de Minervois à Narbonne est réputée pour ses vins rouges,travel_suggestion
+"La région de l'Aude, en Occitanie, est réputée pour ses caves et",travel_suggestion
+"La région du Languedoc-Roussillon, en particulier les Côtes du",travel_suggestion
+"La région de Carcassonne est réputée pour ses caves à vin exceptionnelles,",travel_suggestion
