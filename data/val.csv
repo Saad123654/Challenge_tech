@@ -1,0 +1,13 @@
+text,label
+Est-il possible de louer une voiture à la Laguardia du mardi au vendredi,out_of_scope
+Quand vais-je arriver à destination,flight_status
+Quel est le plus grand état des États-Unis,out_of_scope
+Trouvez-moi un endroit où séjourner à Cali du 11 au 15 novembre,book_hotel
+À qui dois-je me plaindre que mes bagages n'arrivent pas à l'aéroport,lost_luggage
+Comment dire «hôtel» en finnois,translate
+La Corée du Nord a-t-elle des alertes de voyage que je devrais être conscientes,travel_alert
+qui est l'entraîneur des Chicago Bulls,out_of_scope
+où devrais-je passer mon temps libre,travel_suggestion
+Combien de temps dure l'hiver,out_of_scope
+Pourriez-vous faire une réservation de vol avec Air Emirates d'Orlando à Londres,book_flight
+Y a-t-il une limite de poids pour mon bagage à main,carry_on
