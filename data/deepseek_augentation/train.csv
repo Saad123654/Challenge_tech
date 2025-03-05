@@ -1,0 +1,117 @@
+text,label
+Combien coûte un découvert bancaire ?,out_of_scope
+How much does an overdraft cost?,out_of_scope
+Quels sont les frais de découvert pour la banque ?,out_of_scope
+Was kostet eine Überziehung bei der Bank?,out_of_scope
+Quanto custa uma taxa de descoberto bancário?,out_of_scope
+¿Cuánto cuesta un descubierto bancario?,out_of_scope
+Quel est le tarif des frais de découvert ?,out_of_scope
+How much do I pay for a bank overdraft?,out_of_scope
+Quels sont les frais pour un découvert en banque ?,out_of_scope
+Wie hoch sind die Überziehungsgebühren bei der Bank?,out_of_scope
+Quanto devo pagar por um descoberto bancário?,out_of_scope
+¿Cuánto debo pagar por un descubierto bancario?,out_of_scope
+Combien dois-je débourser pour un découvert ?,out_of_scope
+What are the charges for a bank overdraft?,out_of_scope
+Quels sont les frais de découvert pour mon compte ?,out_of_scope
+Was sind die Gebühren für eine Kontoüberziehung?,out_of_scope
+Qual é o custo de um descoberto bancário?,out_of_scope
+¿Cuáles son los cargos por un descubierto bancario?,out_of_scope
+Combien coûte un découvert sur mon compte ?,out_of_scope
+How much does a bank overdraft cost?,out_of_scope
+Comment dit-on "je ne parle pas beaucoup espagnol" en espagnol ?,translate
+How do you say "I don't speak much Spanish" in Spanish?,translate
+Wie sagt man "Ich spreche nicht viel Spanisch" auf Spanisch?,translate
+Come si dice "Non parlo molto spagnolo" in spagnolo?,translate
+Como se diz "Eu não falo muito espanhol" em espanhol?,translate
+¿Cómo se dice "No hablo mucho español" en español?,translate
+Pouvez-vous traduire "je ne parle pas beaucoup espagnol" en espagnol ?,translate
+Can you translate "I don't speak much Spanish" into Spanish?,translate
+Können Sie "Ich spreche nicht viel Spanisch" ins Spanische übersetzen?,translate
+Puoi tradurre "Non parlo molto spagnolo" in spagnolo?,translate
+Você pode traduzir "Eu não falo muito espanhol" para o espanhol?,translate
+¿Puedes traducir "No hablo mucho español" al español?,translate
+Je veux réserver un vol aller-retour entre Dallas et Los Angeles du 2 au 10 mars,book_flight
+I want to book a round-trip flight from Dallas to Los Angeles from March 2nd to 10th,book_flight
+Ich möchte einen Hin- und Rückflug von Dallas nach Los Angeles vom 2. bis 10. März buchen,book_flight
+Voglio prenotare un volo di andata e ritorno da Dallas a Los Angeles dal 2 al 10 marzo,book_flight
+Quero reservar um voo de ida e volta de Dallas para Los Angeles de 2 a 10 de março,book_flight
+Quiero reservar un vuelo de ida y vuelta de Dallas a Los Ángeles del 2 al 10 de marzo,book_flight
+Pouvez-vous m'aider à réserver un vol aller-retour de Dallas à Los Angeles du 2 au 10 mars ?,book_flight
+Can you help me book a round-trip flight from Dallas to Los Angeles from March 2nd to 10th?,book_flight
+Können Sie mir helfen, einen Hin- und Rückflug von Dallas nach Los Angeles vom 2. bis 10. März zu buchen?,book_flight
+Puoi aiutarmi a prenotare un volo di andata e ritorno da Dallas a Los Angeles dal 2 al 10 marzo?,book_flight
+Você pode me ajudar a reservar um voo de ida e volta de Dallas para Los Angeles de 2 a 10 de março?,book_flight
+¿Puedes ayudarme a reservar un vuelo de ida y vuelta de Dallas a Los Ángeles del 2 al 10 de marzo?,book_flight
+Mes bagages semblent avoir été perdus,lost_luggage
+My luggage seems to be lost,lost_luggage
+Mein Gepäck scheint verloren gegangen zu sein,lost_luggage
+Il mio bagaglio sembra essere perso,lost_luggage
+Minha bagagem parece estar perdida,lost_luggage
+Mi equipaje parece estar perdido,lost_luggage
+Je crois que mes valises ont été perdues,lost_luggage
+I think my suitcases have been lost,lost_luggage
+Ich glaube, meine Koffer sind verloren gegangen,lost_luggage
+Penso che le mie valigie siano state perse,lost_luggage
+Acho que minhas malas foram perdidas,lost_luggage
+Creo que mis maletas se han perdido,lost_luggage
+Existe-t-il une alerte de voyage pour la Russie ?,travel_alert
+Is there a travel alert for Russia?,travel_alert
+Gibt es eine Reisewarnung für Russland?,travel_alert
+C'è un'allerta di viaggio per la Russia?,travel_alert
+Existe um alerta de viagem para a Rússia?,travel_alert
+¿Hay una alerta de viaje para Rusia?,travel_alert
+Y a-t-il des alertes de voyage en Russie ?,travel_alert
+Are there travel alerts for Russia?,travel_alert
+Gibt es Reisewarnungen für Russland?,travel_alert
+Ci sono allerte di viaggio per la Russia?,travel_alert
+Há alertas de viagem para a Rússia?,travel_alert
+¿Hay alertas de viaje para Rusia?,travel_alert
+Pouvez-vous me parler des alertes de voyage pour l'Allemagne ?,travel_alert
+Can you tell me about travel alerts for Germany?,travel_alert
+Können Sie mir etwas über Reisewarnungen für Deutschland erzählen?,travel_alert
+Puoi parlarmi delle allerte di viaggio per la Germania?,travel_alert
+Você pode me falar sobre alertas de viagem para a Alemanha?,travel_alert
+¿Puedes hablarme sobre las alertas de viaje para Alemania?,travel_alert
+Quelles sont les alertes de voyage pour l'Allemagne ?,travel_alert
+What are the travel alerts for Germany?,travel_alert
+Was sind die Reisewarnungen für Deutschland?,travel_alert
+Quali sono le allerte di viaggio per la Germania?,travel_alert
+Quais são os alertas de viagem para a Alemanha?,travel_alert
+¿Cuáles son las alertas de viaje para Alemania?,travel_alert
+Quelle compagnie aérienne est la plus connue ?,out_of_scope
+Which airline is the most well-known?,out_of_scope
+Welche Fluggesellschaft ist am bekanntesten?,out_of_scope
+Quale compagnia aerea è la più conosciuta?,out_of_scope
+Qual é a companhia aérea mais conhecida?,out_of_scope
+¿Cuál es la aerolínea más conocida?,out_of_scope
+Quelle est la compagnie aérienne la plus réputée ?,out_of_scope
+What is the most reputable airline?,out_of_scope
+Welche Fluggesellschaft ist am angesehensten?,out_of_scope
+Qual è la compagnia aerea più rinomata?,out_of_scope
+Qual é a companhia aérea mais reputada?,out_of_scope
+¿Cuál es la aerolínea más reputada?,out_of_scope
+Que puis-je faire à Evans ?,travel_suggestion
+What can I do in Evans?,travel_suggestion
+Was kann ich in Evans machen?,travel_suggestion
+Cosa posso fare a Evans?,travel_suggestion
+O que posso fazer em Evans?,travel_suggestion
+¿Qué puedo hacer en Evans?,travel_suggestion
+Quelles activités puis-je faire à Evans ?,travel_suggestion
+What activities can I do in Evans?,travel_suggestion
+Welche Aktivitäten kann ich in Evans unternehmen?,travel_suggestion
+Quali attività posso fare a Evans?,travel_suggestion
+Quais atividades posso fazer em Evans?,travel_suggestion
+¿Qué actividades puedo hacer en Evans?,travel_suggestion
+Quelles sont les restrictions de bagage cabine pour les Émirats arabes unis ?,carry_on
+What are the carry-on baggage restrictions for the United Arab Emirates?,carry_on
+Welche Handgepäckbeschränkungen gelten für die Vereinigten Arabischen Emirate?,carry_on
+Quali sono le restrizioni per il bagaglio a mano negli Emirati Arabi Uniti?,carry_on
+Quais são as restrições de bagagem de mão para os Emirados Árabes Unidos?,carry_on
+¿Cuáles son las restricciones de equipaje de mano para los Emiratos Árabes Unidos?,carry_on
+Quelles règles de bagage cabine s'appliquent aux Émirats arabes unis ?,carry_on
+What carry-on baggage rules apply to the United Arab Emirates?,carry_on
+Welche Handgepäckregeln gelten für die Vereinigten Arabischen Emirate?,carry_on
+Quali regole per il bagaglio a mano si applicano agli Emirati Arabi Uniti?,carry_on
+Quais regras de bagagem de mão se aplicam aos Emirados Árabes Unidos?,carry_on
+¿Qué reglas de equipaje de mano se aplican a los Emiratos Árabes Unidos?,carry_on

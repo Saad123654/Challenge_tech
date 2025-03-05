@@ -1,0 +1,16 @@
+text,label,predictions_enc,predictions
+Quels sont les avantages de terminer le lycée,out_of_scope,0,out_of_scope
+J'ai besoin d'une chambre d'hôtel assez grande pour 4 personnes du lundi au mercredi à Lakewood,book_hotel,7,book_hotel
+Qu'est-ce que je suis autorisé à prendre en cabine avec American Airlines,carry_on,1,translate
+Veuillez trouver la capitale du Pakistan ,out_of_scope,0,out_of_scope
+Perte des bagages sur Flight America Airlines à O'Hare,lost_luggage,3,lost_luggage
+Est-il sûr de se rendre en Islande,travel_alert,4,travel_alert
+Quel personnage Marvel est apparu dans le plus de films,out_of_scope,0,out_of_scope
+Je recherche un vol aller-retour de AAF à DIA du 23 février au 28 février,book_flight,2,book_flight
+Dites-moi comment dire: «C'est une belle matinée» en italien,translate,1,translate
+Quand allons-nous commencer à monter à bord de mon vol prévu,flight_status,8,flight_status
+Que puis-je faire à Nashville,travel_suggestion,5,travel_suggestion
+Quels hôtels ont des critiques décentes à Bangor,book_hotel,0,out_of_scope
+Dois-je payer pour mes bagages à main,carry_on,3,lost_luggage
+Que vaut un dollar au Mexique,out_of_scope,0,out_of_scope
+Où est la meilleure cave du sud de la France,travel_suggestion,0,out_of_scope
