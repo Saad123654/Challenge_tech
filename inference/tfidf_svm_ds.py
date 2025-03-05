@@ -4,7 +4,7 @@ import os
 
 # Chemin vers le répertoire contenant le modèle sauvegardé
 pth = os.path.abspath(os.path.join(os.getcwd(), ".."))
-MODEL_DIR = os.path.abspath(os.path.join(pth, "models/svm_model.pkl"))
+MODEL_DIR = os.path.abspath(os.path.join(pth, "models/svm_ds_model.pkl"))
 
 # Charger le modèle sauvegardé
 with open(MODEL_DIR, 'rb') as file:
@@ -41,7 +41,7 @@ df['predictions_enc'] = y_pred
 df['predictions'] = df['predictions_enc'].map(inverse_label_mapping)
 
 # Sauvegarder les résultats dans un nouveau fichier CSV
-RESULTAT_DIR= os.path.abspath(os.path.join(pth, "data/inference/inference_results_svm.csv"))
+RESULTAT_DIR= os.path.abspath(os.path.join(pth, "data/inference/inference_results_svm_ds.csv"))
 df.to_csv(RESULTAT_DIR, index=False)
 
 # Afficher un aperçu des résultats
