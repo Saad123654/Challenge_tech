@@ -1,0 +1,807 @@
+text,label
+Combien coûte un découvert bancaire ?,out_of_scope
+How much does an overdraft cost?,out_of_scope
+Quels sont les frais de découvert pour la banque ?,out_of_scope
+Was kostet eine Überziehung bei der Bank?,out_of_scope
+Quanto custa uma taxa de descoberto bancário?,out_of_scope
+¿Cuánto cuesta un descubierto bancario?,out_of_scope
+Quel est le tarif des frais de découvert ?,out_of_scope
+How much do I pay for a bank overdraft?,out_of_scope
+Quels sont les frais pour un découvert en banque ?,out_of_scope
+Wie hoch sind die Überziehungsgebühren bei der Bank?,out_of_scope
+Quanto devo pagar por um descoberto bancário?,out_of_scope
+¿Cuánto debo pagar por un descubierto bancario?,out_of_scope
+Combien dois-je débourser pour un découvert ?,out_of_scope
+What are the charges for a bank overdraft?,out_of_scope
+Quels sont les frais de découvert pour mon compte ?,out_of_scope
+Was sind die Gebühren für eine Kontoüberziehung?,out_of_scope
+Qual é o custo de um descoberto bancário?,out_of_scope
+¿Cuáles son los cargos por un descubierto bancario?,out_of_scope
+Combien coûte un découvert sur mon compte ?,out_of_scope
+How much does a bank overdraft cost?,out_of_scope
+Comment dit-on "je ne parle pas beaucoup espagnol" en espagnol ?,translate
+How do you say "I don't speak much Spanish" in Spanish?,translate
+Wie sagt man "Ich spreche nicht viel Spanisch" auf Spanisch?,translate
+Come si dice "Non parlo molto spagnolo" in spagnolo?,translate
+Como se diz "Eu não falo muito espanhol" em espanhol?,translate
+¿Cómo se dice "No hablo mucho español" en español?,translate
+Pouvez-vous traduire "je ne parle pas beaucoup espagnol" en espagnol ?,translate
+Can you translate "I don't speak much Spanish" into Spanish?,translate
+Können Sie "Ich spreche nicht viel Spanisch" ins Spanische übersetzen?,translate
+Puoi tradurre "Non parlo molto spagnolo" in spagnolo?,translate
+Você pode traduzir "Eu não falo muito espanhol" para o espanhol?,translate
+¿Puedes traducir "No hablo mucho español" al español?,translate
+Je veux réserver un vol aller-retour entre Dallas et Los Angeles du 2 au 10 mars,book_flight
+I want to book a round-trip flight from Dallas to Los Angeles from March 2nd to 10th,book_flight
+Ich möchte einen Hin- und Rückflug von Dallas nach Los Angeles vom 2. bis 10. März buchen,book_flight
+Voglio prenotare un volo di andata e ritorno da Dallas a Los Angeles dal 2 al 10 marzo,book_flight
+Quero reservar um voo de ida e volta de Dallas para Los Angeles de 2 a 10 de março,book_flight
+Quiero reservar un vuelo de ida y vuelta de Dallas a Los Ángeles del 2 al 10 de marzo,book_flight
+Pouvez-vous m'aider à réserver un vol aller-retour de Dallas à Los Angeles du 2 au 10 mars ?,book_flight
+Can you help me book a round-trip flight from Dallas to Los Angeles from March2nd to 10th?,book_flight
+Können Sie mir helfen einen Hin- und Rückflug von Dallas nach Los Angeles vom 2. bis 10. März zu buchen?,book_flight
+Puoi aiutarmi a prenotare un volo di andata e ritorno da Dallas a Los Angeles dal 2 al 10 marzo?,book_flight
+Você pode me ajudar a reservar um voo de ida e volta de Dallas para Los Angeles de 2 a 10 de março?,book_flight
+¿Puedes ayudarme a reservar un vuelo de ida y vuelta de Dallas a Los Ángeles del 2 al 10 de marzo?,book_flight
+Mes bagages semblent avoir été perdus,lost_luggage
+My luggage seems to be lost,lost_luggage
+Mein Gepäck scheint verloren gegangen zu sein,lost_luggage
+Il mio bagaglio sembra essere perso,lost_luggage
+Minha bagagem parece estar perdida,lost_luggage
+Mi equipaje parece estar perdido,lost_luggage
+Je crois que mes valises ont été perdues,lost_luggage
+I think my suitcases have been lost,lost_luggage
+Ich glaube meine Koffer sind verloren gegangen,lost_luggage
+Penso che le mie valigie siano state perse,lost_luggage
+Acho que minhas malas foram perdidas,lost_luggage
+Creo que mis maletas se han perdido,lost_luggage
+Existe-t-il une alerte de voyage pour la Russie ?,travel_alert
+Is there a travel alert for Russia?,travel_alert
+Gibt es eine Reisewarnung für Russland?,travel_alert
+C'è un'allerta di viaggio per la Russia?,travel_alert
+Existe um alerta de viagem para a Rússia?,travel_alert
+¿Hay una alerta de viaje para Rusia?,travel_alert
+Y a-t-il des alertes de voyage en Russie ?,travel_alert
+Are there travel alerts for Russia?,travel_alert
+Gibt es Reisewarnungen für Russland?,travel_alert
+Ci sono allerte di viaggio per la Russia?,travel_alert
+Há alertas de viagem para a Rússia?,travel_alert
+¿Hay alertas de viaje para Rusia?,travel_alert
+Pouvez-vous me parler des alertes de voyage pour l'Allemagne ?,travel_alert
+Can you tell me about travel alerts for Germany?,travel_alert
+Können Sie mir etwas über Reisewarnungen für Deutschland erzählen?,travel_alert
+Puoi parlarmi delle allerte di viaggio per la Germania?,travel_alert
+Você pode me falar sobre alertas de viagem para a Alemanha?,travel_alert
+¿Puedes hablarme sobre las alertas de viaje para Alemania?,travel_alert
+Quelles sont les alertes de voyage pour l'Allemagne ?,travel_alert
+What are the travel alerts for Germany?,travel_alert
+Was sind die Reisewarnungen für Deutschland?,travel_alert
+Quali sono le allerte di viaggio per la Germania?,travel_alert
+Quais são os alertas de viagem para a Alemanha?,travel_alert
+¿Cuáles son las alertas de viaje para Alemania?,travel_alert
+Quelle compagnie aérienne est la plus connue ?,out_of_scope
+Which airline is the most well-known?,out_of_scope
+Welche Fluggesellschaft ist am bekanntesten?,out_of_scope
+Quale compagnia aerea è la più conosciuta?,out_of_scope
+Qual é a companhia aérea mais conhecida?,out_of_scope
+¿Cuál es la aerolínea más conocida?,out_of_scope
+Quelle est la compagnie aérienne la plus réputée ?,out_of_scope
+What is the most reputable airline?,out_of_scope
+Welche Fluggesellschaft ist am angesehensten?,out_of_scope
+Qual è la compagnia aerea più rinomata?,out_of_scope
+Qual é a companhia aérea mais reputada?,out_of_scope
+¿Cuál es la aerolínea más reputada?,out_of_scope
+Que puis-je faire à Evans ?,travel_suggestion
+What can I do in Evans?,travel_suggestion
+Was kann ich in Evans machen?,travel_suggestion
+Cosa posso fare a Evans?,travel_suggestion
+O que posso fazer em Evans?,travel_suggestion
+¿Qué puedo hacer en Evans?,travel_suggestion
+Quelles activités puis-je faire à Evans ?,travel_suggestion
+What activities can I do in Evans?,travel_suggestion
+Welche Aktivitäten kann ich in Evans unternehmen?,travel_suggestion
+Quali attività posso fare a Evans?,travel_suggestion
+Quais atividades posso fazer em Evans?,travel_suggestion
+¿Qué actividades puedo hacer en Evans?,travel_suggestion
+Quelles sont les restrictions de bagage cabine pour les Émirats arabes unis ?,carry_on
+What are the carry-on baggage restrictions for the United Arab Emirates?,carry_on
+Welche Handgepäckbeschränkungen gelten für die Vereinigten Arabischen Emirate?,carry_on
+Quali sono le restrizioni per il bagaglio a mano negli Emirati Arabi Uniti?,carry_on
+Quais são as restrições de bagagem de mão para os Emirados Árabes Unidos?,carry_on
+¿Cuáles son las restricciones de equipaje de mano para los Emiratos Árabes Unidos?,carry_on
+Quelles règles de bagage cabine s'appliquent aux Émirats arabes unis ?,carry_on
+What carry-on baggage rules apply to the United Arab Emirates?,carry_on
+Welche Handgepäckregeln gelten für die Vereinigten Arabischen Emirate?,carry_on
+Quali regole per il bagaglio a mano si applicano agli Emirati Arabi Uniti?,carry_on
+Quais regras de bagagem de mão se aplicam aos Emirados Árabes Unidos?,carry_on
+¿Qué reglas de equipaje de mano se aplican a los Emiratos Árabes Unidos?,carry_on
+Quelles sont les limitations de bagage cabine pour les Émirats arabes unis ?,carry_on
+What are the carry-on baggage limitations for the United Arab Emirates?,carry_on
+Welche Handgepäckbeschränkungen gibt es für die Vereinigten Arabischen Emirate?,carry_on
+Quali sono le limitazioni per il bagaglio a mano negli Emirati Arabi Uniti?,carry_on
+Quais são as limitações de bagagem de mão para os Emirados Árabes Unidos?,carry_on
+¿Cuáles son las limitaciones de equipaje de mano para los Emiratos Árabes Unidos?,carry_on
+Quelles sont les restrictions de cabine pour les vols vers les Émirats arabes unis ?,carry_on
+What are the cabin restrictions for flights to the United Arab Emirates?,carry_on
+Welche Kabinenbeschränkungen gelten für Flüge in die Vereinigten Arabischen Emirate?,carry_on
+Quali sono le restrizioni di cabina per i voli verso gli Emirati Arabi Uniti?,carry_on
+Quais são as restrições de cabine para voos para os Emirados Árabes Unidos?,carry_on
+¿Cuáles son las restricciones de cabina para vuelos a los Emiratos Árabes Unidos?,carry_on
+Je voudrais savoir quels vols sont disponibles sur El Paso à Dallas le 10 juin pour moins de 300 $,book_flight
+I would like to know which flights are available from El Paso to Dallas on June 10th for less than $300,book_flight
+Ich möchte wissen welche Flüge am 10. Juni von El Paso nach Dallas für weniger als 300 $ verfügbar sind,book_flight
+Vorrei sapere quali voli sono disponibili da El Paso a Dallas il 10 giugno per meno di 300 $,book_flight
+Gostaria de saber quais voos estão disponíveis de El Paso para Dallas em 10 de junho por menos de 300 $,book_flight
+Me gustaría saber qué vuelos están disponibles de El Paso a Dallas el 10 de junio por menos de 300 $,book_flight
+Pouvez-vous me dire quels vols sont disponibles sur El Paso à Dallas le 10 juin pour moins de 300 $ ?,book_flight
+Can you tell me which flights are available from El Paso to Dallas on June 10th for less than $300?,book_flight
+Können Sie mir sagen welche Flüge am 10. Juni von El Paso nach Dallas für weniger als 300 $ verfügbar sind?,book_flight
+Puoi dirmi quali voli sono disponibili da El Paso a Dallas il 10 giugno per meno di 300 $?,book_flight
+Você pode me dizer quais voos estão disponíveis de El Paso para Dallas em 10 de junho por menos de 300 $?,book_flight
+¿Puedes decirme qué vuelos están disponibles de El Paso a Dallas el 10 de junio por menos de 300 $?,book_flight
+Aide j'ai perdu mes bagages,lost_luggage
+Help I lost my luggage,lost_luggage
+Hilfe ich habe mein Gepäck verloren,lost_luggage
+Aiuto ho perso il mio bagaglio,lost_luggage
+Ajuda perdi minha bagagem,lost_luggage
+Ayuda perdí mi equipaje,lost_luggage
+Je ne trouve pas mes bagages,lost_luggage
+I can't find my luggage,lost_luggage
+Ich finde mein Gepäck nicht,lost_luggage
+Non riesco a trovare il mio bagaglio,lost_luggage
+Não consigo encontrar minha bagagem,lost_luggage
+No encuentro mi equipaje,lost_luggage
+Quel est le taux de change entre l'USD et l'euro ?,out_of_scope
+What is the exchange rate between the USD and the euro?,out_of_scope
+Wie ist der Wechselkurs zwischen dem USD und dem Euro?,out_of_scope
+Qual è il tasso di cambio tra USD ed euro?,out_of_scope
+Qual é a taxa de câmbio entre o dólar e o euro?,out_of_scope
+¿Cuál es el tipo de cambio entre el dólar y el euro?,out_of_scope
+Pouvez-vous me dire le taux de change entre l'USD et l'euro ?,out_of_scope
+Can you tell me the exchange rate between the USD and the euro?,out_of_scope
+Können Sie mir den Wechselkurs zwischen dem USD und dem Euro sagen?,out_of_scope
+Puoi dirmi il tasso di cambio tra USD ed euro?,out_of_scope
+Você pode me dizer a taxa de câmbio entre o dólar e o euro?,out_of_scope
+¿Puedes decirme el tipo de cambio entre el dólar y el euro?,out_of_scope
+Voulez-vous me faire part des restrictions de bagage à main pour American Airlines ?,carry_on
+Can you tell me about the carry-on baggage restrictions for American Airlines?,carry_on
+Können Sie mir die Handgepäckbeschränkungen für American Airlines mitteilen?,carry_on
+Puoi dirmi le restrizioni per il bagaglio a mano di American Airlines?,carry_on
+Você pode me informar sobre as restrições de bagagem de mão da American Airlines?,carry_on
+¿Puedes informarme sobre las restricciones de equipaje de mano de American Airlines?,carry_on
+Quelles sont les règles de bagage à main pour American Airlines ?,carry_on
+What are the carry-on baggage rules for American Airlines?,carry_on
+Welche Handgepäckregeln gelten für American Airlines?,carry_on
+Quali sono le regole per il bagaglio a mano di American Airlines?,carry_on
+Quais são as regras de bagagem de mão da American Airlines?,carry_on
+¿Cuáles son las reglas de equipaje de mano de American Airlines?,carry_on
+Combien d'Oscars ont gagné les films Star Wars ?,out_of_scope
+How many Oscars have Star Wars movies won?,out_of_scope
+Wie viele Oscars haben die Star-Wars-Filme gewonnen?,out_of_scope
+Quanti Oscar hanno vinto i film di Star Wars?,out_of_scope
+Quantos Oscars os filmes de Star Wars ganharam?,out_of_scope
+¿Cuántos Oscars han ganado las películas de Star Wars?,out_of_scope
+Pouvez-vous me dire combien d'Oscars les films Star Wars ont gagné ?,out_of_scope
+Can you tell me how many Oscars Star Wars movies have won?,out_of_scope
+Können Sie mir sagen wie viele Oscars die Star-Wars-Filme gewonnen haben?,out_of_scope
+Puoi dirmi quanti Oscar hanno vinto i film di Star Wars?,out_of_scope
+Você pode me dizer quantos Oscars os filmes de Star Wars ganharam?,out_of_scope
+¿Puedes decirme cuántos Oscars han ganado las películas de Star Wars?,out_of_scope
+Localiser les bagages perdus de Flight America Airlines à O'Hare,lost_luggage
+Locate the lost luggage of Flight America Airlines at O'Hare,lost_luggage
+Finden Sie das verlorene Gepäck von Flight America Airlines in O'Hare,lost_luggage
+Localizza il bagaglio perduto del volo America Airlines a O'Hare,lost_luggage
+Localize a bagagem perdida do voo America Airlines em O'Hare,lost_luggage
+Localiza el equipaje perdido del vuelo America Airlines en O'Hare,lost_luggage
+Pouvez-vous localiser les bagages perdus de Flight America Airlines à O'Hare ?,lost_luggage
+Can you locate the lost luggage of Flight America Airlines at O'Hare?,lost_luggage
+Können Sie das verlorene Gepäck von Flight America Airlines in O'Hare finden?,lost_luggage
+Puoi localizzare il bagaglio perduto del volo America Airlines a O'Hare?,lost_luggage
+Você pode localizar a bagagem perdida do voo America Airlines em O'Hare?,lost_luggage
+¿Puedes localizar el equipaje perdido del vuelo America Airlines en O'Hare?,lost_luggage
+Trouvez un hôtel Columbus Ohio avec de bonnes critiques,book_hotel
+Find a hotel in Columbus Ohio with good reviews,book_hotel
+Finden Sie ein Hotel in Columbus Ohio mit guten Bewertungen,book_hotel
+Trova un hotel a Columbus Ohio con buone recensioni,book_hotel
+Encontre um hotel em Columbus Ohio com boas críticas,book_hotel
+Encuentra un hotel en Columbus Ohio con buenas críticas,book_hotel
+Pouvez-vous trouver un hôtel à Columbus Ohio avec de bonnes critiques ?,book_hotel
+Can you find a hotel in Columbus Ohio with good reviews?,book_hotel
+Können Sie ein Hotel in Columbus Ohio mit guten Bewertungen finden?,book_hotel
+Puoi trovare un hotel a Columbus Ohio con buone recensioni?,book_hotel
+Você pode encontrar um hotel em Columbus Ohio com boas críticas?,book_hotel
+¿Puedes encontrar un hotel en Columbus Ohio con buenas críticas?,book_hotel
+Quand Camus est-il mort ?,out_of_scope
+When did Camus die?,out_of_scope
+Wann ist Camus gestorben?,out_of_scope
+Quando è morto Camus?,out_of_scope
+Quando Camus morreu?,out_of_scope
+¿Cuándo murió Camus?,out_of_scope
+Pouvez-vous me dire quand Camus est mort ?,out_of_scope
+Can you tell me when Camus died?,out_of_scope
+Können Sie mir sagen wann Camus gestorben ist?,out_of_scope
+Puoi dirmi quando è morto Camus?,out_of_scope
+Você pode me dizer quando Camus morreu?,out_of_scope
+¿Puedes decirme cuándo murió Camus?,out_of_scope
+Combien de côtés dans un hexagone ?,out_of_scope
+How many sides does a hexagon have?,out_of_scope
+Wie viele Seiten hat ein Hexagon?,out_of_scope
+Quanti lati ha un esagono?,out_of_scope
+Quantos lados tem um hexágono?,out_of_scope
+¿Cuántos lados tiene un hexágono?,out_of_scope
+Pouvez-vous me dire combien de côtés a un hexagone ?,out_of_scope
+Can you tell me how many sides a hexagon has?,out_of_scope
+Können Sie mir sagen wie viele Seiten ein Hexagon hat?,out_of_scope
+Puoi dirmi quanti lati ha un esagono?,out_of_scope
+Você pode me dizer quantos lados tem um hexágono?,out_of_scope
+¿Puedes decirme cuántos lados tiene un hexágono?,out_of_scope
+Combien de bagages à main puis-je prendre pendant un vol avec United pour Lax ?,carry_on
+How many carry-on bags can I take on a United flight to Lax?,carry_on
+Wie viele Handgepäckstücke kann ich auf einem United-Flug nach Lax mitnehmen?,carry_on
+Quanti bagagli a mano posso portare su un volo United per Lax?,carry_on
+Quantas bagagens de mão posso levar em um voo da United para Lax?,carry_on
+¿Cuántas maletas de mano puedo llevar en un vuelo de United a Lax?,carry_on
+Pouvez-vous me dire combien de bagages à main je peux prendre sur un vol United pour Lax ?,carry_on
+Can you tell me how many carry-on bags I can take on a United flight to Lax?,carry_on
+Können Sie mir sagen wie viele Handgepäckstücke ich auf einem United-Flug nach Lax mitnehmen kann?,carry_on
+Puoi dirmi quanti bagagli a mano posso portare su un volo United per Lax?,carry_on
+Você pode me dizer quantas bagagens de mão posso levar em um voo da United para Lax?,carry_on
+¿Puedes decirme cuántas maletas de mano puedo llevar en un vuelo de United a Lax?,carry_on
+Quand Nintendo a-t-il été créé ?,out_of_scope
+When was Nintendo created?,out_of_scope
+Wann wurde Nintendo gegründet?,out_of_scope
+Quando è stato creato Nintendo?,out_of_scope
+Quando a Nintendo foi criada?,out_of_scope
+¿Cuándo se creó Nintendo?,out_of_scope
+Pouvez-vous me dire quand Nintendo a été créé ?,out_of_scope
+Can you tell me when Nintendo was created?,out_of_scope
+Können Sie mir sagen wann Nintendo gegründet wurde?,out_of_scope
+Puoi dirmi quando è stato creato Nintendo?,out_of_scope
+Você pode me dizer quando a Nintendo foi criada?,out_of_scope
+¿Puedes decirme cuándo se creó Nintendo?,out_of_scope
+Savez-vous qui je devrais contacter car mes valises ne sont pas arrivées ?,lost_luggage
+Do you know who I should contact because my suitcases didn't arrive?,lost_luggage
+Wissen Sie wen ich kontaktieren sollte weil meine Koffer nicht angekommen sind?,lost_luggage
+Sai chi dovrei contattare perché le mie valigie non sono arrivate?,lost_luggage
+Você sabe quem eu devo contatar porque minhas malas não chegaram?,lost_luggage
+¿Sabes a quién debo contactar porque mis maletas no llegaron?,lost_luggage
+Pouvez-vous me dire qui je devrais contacter car mes valises ne sont pas arrivées ?,lost_luggage
+Can you tell me who I should contact because my suitcases didn't arrive?,lost_luggage
+Können Sie mir sagen wen ich kontaktieren sollte weil meine Koffer nicht angekommen sind?,lost_luggage
+Puoi dirmi chi dovrei contattare perché le mie valigie non sono arrivate?,lost_luggage
+Você pode me dizer quem eu devo contatar porque minhas malas não chegaram?,lost_luggage
+¿Puedes decirme a quién debo contactar porque mis maletas no llegaron?,lost_luggage
+qui est le personnage le plus effrayant de Start Trek ?,out_of_scope
+Who is the scariest character in Star Trek?,out_of_scope
+Wer ist der gruseligste Charakter in Star Trek?,out_of_scope
+Chi è il personaggio più spaventoso di Star Trek?,out_of_scope
+Quem é o personagem mais assustador de Star Trek?,out_of_scope
+¿Quién es el personaje más aterrador de Star Trek?,out_of_scope
+Pouvez-vous me dire qui est le personnage le plus effrayant de Star Trek ?,out_of_scope
+Can you tell me who the scariest character in Star Trek is?,out_of_scope
+Können Sie mir sagen wer der gruseligste Charakter in Star Trek ist?,out_of_scope
+Puoi dirmi chi è il personaggio più spaventoso di Star Trek?,out_of_scope
+Você pode me dizer quem é o personagem mais assustador de Star Trek?,out_of_scope
+¿Puedes decirme quién es el personaje más aterrador de Star Trek?,out_of_scope
+Combien de planètes avons-nous découvert ?,out_of_scope
+How many planets have we discovered?,out_of_scope
+Wie viele Planeten haben wir entdeckt?,out_of_scope
+Quanti pianeti abbiamo scoperto?,out_of_scope
+Quantos planetas nós descobrimos?,out_of_scope
+¿Cuántos planetas hemos descubierto?,out_of_scope
+Pouvez-vous me dire combien de planètes nous avons découvert ?,out_of_scope
+Can you tell me how many planets we have discovered?,out_of_scope
+Können Sie mir sagen wie viele Planeten wir entdeckt haben?,out_of_scope
+Puoi dirmi quanti pianeti abbiamo scoperto?,out_of_scope
+Você pode me dizer quantos planetas nós descobrimos?,out_of_scope
+¿Puedes decirme cuántos planetas hemos descubierto?,out_of_scope
+Donnez-moi une liste de choses à faire à Orlando,travel_suggestion
+Give me a list of things to do in Orlando,travel_suggestion
+Geben Sie mir eine Liste von Dingen die man in Orlando tun kann,travel_suggestion
+Dammi una lista di cose da fare a Orlando,travel_suggestion
+Dê-me uma lista de coisas para fazer em Orlando,travel_suggestion
+Dame una lista de cosas que hacer en Orlando,travel_suggestion
+Pouvez-vous me donner une liste de choses à faire à Orlando ?,travel_suggestion
+Can you give me a list of things to do in Orlando?,travel_suggestion
+Können Sie mir eine Liste von Dingen geben die man in Orlando tun kann?,travel_suggestion
+Puoi darmi una lista di cose da fare a Orlando?,travel_suggestion
+Você pode me dar uma lista de coisas para fazer em Orlando?,travel_suggestion
+¿Puedes darme una lista de cosas que hacer en Orlando?,travel_suggestion
+Veuillez suggérer des activités touristiques amusantes à Tokyo,travel_suggestion
+Please suggest fun tourist activities in Tokyo,travel_suggestion
+Bitte schlagen Sie unterhaltsame touristische Aktivitäten in Tokio vor,travel_suggestion
+Per favore suggerisci attività turistiche divertenti a Tokyo,travel_suggestion
+Por favor sugira atividades turísticas divertidas em Tóquio,travel_suggestion
+Veuillez suggérer des activités touristiques amusantes à Tokyo,travel_suggestion
+Please suggest fun tourist activities in Tokyo,travel_suggestion
+Bitte schlagen Sie unterhaltsame touristische Aktivitäten in Tokio vor,travel_suggestion
+Per favore suggerisci attività turistiche divertenti a Tokyo,travel_suggestion
+Por favor sugira atividades turísticas divertidas em Tóquio,travel_suggestion
+Por favor sugiera actividades turísticas divertidas en Tokio,travel_suggestion
+Pouvez-vous me suggérer des activités touristiques amusantes à Tokyo ?,travel_suggestion
+Can you suggest fun tourist activities in Tokyo?,travel_suggestion
+Können Sie mir unterhaltsame touristische Aktivitäten in Tokio vorschlagen?,travel_suggestion
+Puoi suggerirmi attività turistiche divertenti a Tokyo?,travel_suggestion
+Você pode sugerir atividades turísticas divertidas em Tóquio?,travel_suggestion
+¿Puedes sugerirme actividades turísticas divertidas en Tokio?,travel_suggestion
+Quelle est la porte d'embarquement pour mon vol AF847 ?,flight_status
+What is the boarding gate for my flight AF847?,flight_status
+Welches ist das Boarding-Gate für meinen Flug AF847?,flight_status
+Qual è il gate di imbarco per il mio volo AF847?,flight_status
+Qual é o portão de embarque para o meu voo AF847?,flight_status
+¿Cuál es la puerta de embarque para mi vuelo AF847?,flight_status
+Pouvez-vous me dire quelle est la porte d'embarquement pour mon vol AF847 ?,flight_status
+Can you tell me what the boarding gate is for my flight AF847?,flight_status
+Können Sie mir sagen welches das Boarding-Gate für meinen Flug AF847 ist?,flight_status
+Puoi dirmi qual è il gate di imbarco per il mio volo AF847?,flight_status
+Você pode me dizer qual é o portão de embarque para o meu voo AF847?,flight_status
+¿Puedes decirme cuál es la puerta de embarque para mi vuelo AF847?,flight_status
+Quand mon vol atterrira-t-il ?,flight_status
+When will my flight land?,flight_status
+Wann wird mein Flug landen?,flight_status
+Quando atterrerà il mio volo?,flight_status
+Quando o meu voo vai aterrissar?,flight_status
+¿Cuándo aterrizará mi vuelo?,flight_status
+Pouvez-vous me dire quand mon vol atterrira ?,flight_status
+Can you tell me when my flight will land?,flight_status
+Können Sie mir sagen wann mein Flug landen wird?,flight_status
+Puoi dirmi quando atterrerà il mio volo?,flight_status
+Você pode me dizer quando o meu voo vai aterrissar?,flight_status
+¿Puedes decirme cuándo aterrizará mi vuelo?,flight_status
+Y a-t-il des alertes de voyage pour la Syrie ?,travel_alert
+Are there travel alerts for Syria?,travel_alert
+Gibt es Reisewarnungen für Syrien?,travel_alert
+Ci sono allerte di viaggio per la Siria?,travel_alert
+Há alertas de viagem para a Síria?,travel_alert
+¿Hay alertas de viaje para Siria?,travel_alert
+Pouvez-vous me dire s'il y a des alertes de voyage pour la Syrie ?,travel_alert
+Can you tell me if there are travel alerts for Syria?,travel_alert
+Können Sie mir sagen ob es Reisewarnungen für Syrien gibt?,travel_alert
+Puoi dirmi se ci sono allerte di viaggio per la Siria?,travel_alert
+Você pode me dizer se há alertas de viagem para a Síria?,travel_alert
+¿Puedes decirme si hay alertas de viaje para Siria?,travel_alert
+Veuillez me dire comment demander un taxi en français,translate
+Please tell me how to ask for a taxi in French,translate
+Bitte sagen Sie mir wie man auf Französisch ein Taxi bestellt,translate
+Per favore dimmi come chiedere un taxi in francese,translate
+Por favor diga-me como pedir um táxi em francês,translate
+Por favor dígame cómo pedir un taxi en francés,translate
+Pouvez-vous me dire comment demander un taxi en français ?,translate
+Can you tell me how to ask for a taxi in French?,translate
+Können Sie mir sagen wie man auf Französisch ein Taxi bestellt?,translate
+Puoi dirmi come chiedere un taxi in francese?,translate
+Você pode me dizer como pedir um táxi em francês?,translate
+¿Puedes decirme cómo pedir un taxi en francés?,translate
+Y a-t-il une limite de poids de bagage cabine ?,carry_on
+Is there a weight limit for carry-on luggage?,carry_on
+Gibt es eine Gewichtsbeschränkung für Handgepäck?,carry_on
+C'è un limite di peso per il bagaglio a mano?,carry_on
+Há um limite de peso para a bagagem de mão?,carry_on
+¿Hay un límite de peso para el equipaje de mano?,carry_on
+Pouvez-vous me dire s'il y a une limite de poids pour les bagages cabine ?,carry_on
+Can you tell me if there is a weight limit for carry-on luggage?,carry_on
+Können Sie mir sagen ob es eine Gewichtsbeschränkung für Handgepäck gibt?,carry_on
+Puoi dirmi se c'è un limite di peso per il bagaglio a mano?,carry_on
+Você pode me dizer se há um limite de peso para a bagagem de mão?,carry_on
+¿Puedes decirme si hay un límite de peso para el equipaje de mano?,carry_on
+Si j'étais japonais comment dirais-je que je suis touriste ?,translate
+If I were Japanese how would I say "I am a tourist"?,translate
+Wenn ich Japaner wäre wie würde ich sagen "Ich bin ein Tourist"?,translate
+Se fossi giapponese come direi "Sono un turista"?,translate
+Se eu fosse japonês como diria "Eu sou turista"?,translate
+Si fuera japonés ¿cómo diría "Soy turista"?,translate
+Pouvez-vous me dire comment dire "Je suis touriste" en japonais ?,translate
+Can you tell me how to say "I am a tourist" in Japanese?,translate
+Können Sie mir sagen wie man "Ich bin ein Tourist" auf Japanisch sagt?,translate
+Puoi dirmi come dire "Sono un turista" in giapponese?,translate
+Você pode me dizer como dizer "Eu sou turista" em japonês?,translate
+¿Puedes decirme cómo decir "Soy turista" en japonés?,translate
+Quelles sont les règles concernant les bagages à main pour les vols Virgin Airlines ?,carry_on
+What are the carry-on baggage rules for Virgin Airlines flights?,carry_on
+Welche Handgepäckregeln gelten für Virgin Airlines-Flüge?,carry_on
+Quali sono le regole per il bagaglio a mano sui voli Virgin Airlines?,carry_on
+Quais são as regras de bagagem de mão para voos da Virgin Airlines?,carry_on
+¿Cuáles son las reglas de equipaje de mano para los vuelos de Virgin Airlines?,carry_on
+Pouvez-vous me dire quelles sont les règles de bagage à main pour les vols Virgin Airlines ?,carry_on
+Can you tell me what the carry-on baggage rules are for Virgin Airlines flights?,carry_on
+Können Sie mir sagen welche Handgepäckregeln für Virgin Airlines-Flüge gelten?,carry_on
+Puoi dirmi quali sono le regole per il bagaglio a mano sui voli Virgin Airlines?,carry_on
+Você pode me dizer quais são as regras de bagagem de mão para voos da Virgin Airlines?,carry_on
+¿Puedes decirme cuáles son las reglas de equipaje de mano para los vuelos de Virgin Airlines?,carry_on
+Quelle taille d'essuie-glace cette voiture prend-t-elle ?,out_of_scope
+What size wiper blades does this car take?,out_of_scope
+Welche Größe haben die Wischerblätter dieses Autos?,out_of_scope
+Qual è la dimensione delle spazzole tergicristallo di questa auto?,out_of_scope
+Qual é o tamanho das palhetas do para-brisa deste carro?,out_of_scope
+¿Qué tamaño de limpiaparabrisas lleva este coche?,out_of_scope
+Pouvez-vous me dire quelle taille d'essuie-glace cette voiture prend ?,out_of_scope
+Can you tell me what size wiper blades this car takes?,out_of_scope
+Können Sie mir sagen welche Größe die Wischerblätter dieses Autos haben?,out_of_scope
+Puoi dirmi qual è la dimensione delle spazzole tergicristallo di questa auto?,out_of_scope
+Você pode me dizer qual é o tamanho das palhetas do para-brisa deste carro?,out_of_scope
+¿Puedes decirme qué tamaño de limpiaparabrisas lleva este coche?,out_of_scope
+Mes bagages sont manquants j'étais sur le vol Frontier AB123 depuis Seattle,lost_luggage
+My luggage is missing I was on Frontier flight AB123 from Seattle,lost_luggage
+Mein Gepäck fehlt ich war auf Frontier-Flug AB123 ab Seattle,lost_luggage
+Il mio bagaglio è mancante ero sul volo Frontier AB123 da Seattle,lost_luggage
+Minha bagagem está faltando eu estava no voo Frontier AB123 de Seattle,lost_luggage
+Mi equipaje está perdido estaba en el vuelo Frontier AB123 desde Seattle,lost_luggage
+Pouvez-vous m'aider à retrouver mes bagages manquants du vol Frontier AB123 depuis Seattle ?,lost_luggage
+Can you help me find my missing luggage from Frontier flight AB123 from Seattle?,lost_luggage
+Können Sie mir helfen mein verlorenes Gepäck vom Frontier-Flug AB123 ab Seattle zu finden?,lost_luggage
+Puoi aiutarmi a trovare il mio bagaglio mancante dal volo Frontier AB123 da Seattle?,lost_luggage
+Você pode me ajudar a encontrar minha bagagem perdida do voo Frontier AB123 de Seattle?,lost_luggage
+¿Puedes ayudarme a encontrar mi equipaje perdido del vuelo Frontier AB123 desde Seattle?,lost_luggage
+Quelle est la durée de vie de la batterie moyenne d'un téléphone Android ?,out_of_scope
+What is the average battery life of an Android phone?,out_of_scope
+Wie lange hält der durchschnittliche Akku eines Android-Telefons?,out_of_scope
+Qual è la durata media della batteria di un telefono Android?,out_of_scope
+Qual é a vida útil média da bateria de um telefone Android?,out_of_scope
+¿Cuál es la duración media de la batería de un teléfono Android?,out_of_scope
+Pouvez-vous me dire quelle est la durée de vie de la batterie moyenne d'un téléphone Android ?,out_of_scope
+Can you tell me what the average battery life of an Android phone is?,out_of_scope
+Können Sie mir sagen wie lange der durchschnittliche Akku eines Android-Telefons hält?,out_of_scope
+Puoi dirmi qual è la durata media della batteria di un telefono Android?,out_of_scope
+Você pode me dizer qual é a vida útil média da bateria de um telefone Android?,out_of_scope
+¿Puedes decirme cuál es la duración media de la batería de un teléfono Android?,out_of_scope
+Comment dire bonjour en anglais,translate
+How do you say hello in English,translate
+Wie sagt man Hallo auf Englisch,translate
+Come si dice ciao in inglese,translate
+Como se diz olá em inglês,translate
+¿Cómo se dice hola en inglés?,translate
+Pouvez-vous me dire comment dire bonjour en anglais ?,translate
+Can you tell me how to say hello in English?,translate
+Können Sie mir sagen wie man Hallo auf Englisch sagt?,translate
+Puoi dirmi come si dice ciao in inglese?,translate
+Você pode me dizer como se diz olá em inglês?,translate
+¿Puedes decirme cómo se dice hola en inglés?,translate
+Veuillez me trouver une chambre d'hôtel pour 4 personnes du lundi au mercredi à Lakewood,book_hotel
+Please find me a hotel room for 4 people from Monday to Wednesday in Lakewood,book_hotel
+Bitte finden Sie mir ein Hotelzimmer für 4 Personen von Montag bis Mittwoch in Lakewood,book_hotel
+Per favore trovami una camera d'albergo per 4 persone da lunedì a mercoledì a Lakewood,book_hotel
+Por favor encontre-me um quarto de hotel para 4 pessoas de segunda a quarta-feira em Lakewood,book_hotel
+Por favor encuéntreme una habitación de hotel para 4 personas de lunes a miércoles en Lakewood,book_hotel
+Pouvez-vous me trouver une chambre d'hôtel pour 4 personnes du lundi au mercredi à Lakewood ?,book_hotel
+Can you find me a hotel room for 4 people from Monday to Wednesday in Lakewood?,book_hotel
+Können Sie mir ein Hotelzimmer für 4 Personen von Montag bis Mittwoch in Lakewood finden?,book_hotel
+Puoi trovarmi una camera d'albergo per 4 persone da lunedì a mercoledì a Lakewood?,book_hotel
+Você pode encontrar um quarto de hotel para 4 pessoas de segunda a quarta-feira em Lakewood?,book_hotel
+¿Puedes encontrarme una habitación de hotel para 4 personas de lunes a miércoles en Lakewood?,book_hotel
+Trouvez-moi des vols aller-retour de LAX vers SFOX,book_flight
+Find me round-trip flights from LAX to SFOX,book_flight
+Finden Sie mir Hin- und Rückflüge von LAX nach SFOX,book_flight
+Trova voli di andata e ritorno da LAX a SFOX,book_flight
+Encontre voos de ida e volta de LAX para SFOX,book_flight
+Encuéntreme vuelos de ida y vuelta de LAX a SFOX,book_flight
+Pouvez-vous me trouver des vols aller-retour de LAX vers SFOX ?,book_flight
+Can you find me round-trip flights from LAX to SFOX?,book_flight
+Können Sie mir Hin- und Rückflüge von LAX nach SFOX finden?,book_flight
+Puoi trovarmi voli di andata e ritorno da LAX a SFOX?,book_flight
+Você pode encontrar voos de ida e volta de LAX para SFOX?,book_flight
+¿Puedes encontrarme vuelos de ida y vuelta de LAX a SFOX?,book_flight
+Réservez un vol de Chicago à DC lundi et revenant mercredi,book_flight
+Book a flight from Chicago to DC on Monday and returning on Wednesday,book_flight
+Buchen Sie einen Flug von Chicago nach DC am Montag und zurück am Mittwoch,book_flight
+Prenota un volo da Chicago a DC lunedì e ritorno mercoledì,book_flight
+Reserve um voo de Chicago para DC na segunda-feira e retorno na quarta-feira,book_flight
+Reserve un vuelo de Chicago a DC el lunes y regreso el miércoles,book_flight
+Pouvez-vous réserver un vol de Chicago à DC lundi et revenant mercredi ?,book_flight
+Can you book a flight from Chicago to DC on Monday and returning on Wednesday?,book_flight
+Können Sie einen Flug von Chicago nach DC am Montag und zurück am Mittwoch buchen?,book_flight
+Puoi prenotare un volo da Chicago a DC lunedì e ritorno mercoledì?,book_flight
+Você pode reservar um voo de Chicago para DC na segunda-feira e retorno na quarta-feira?,book_flight
+¿Puedes reservar un vuelo de Chicago a DC el lunes y regreso el miércoles?,book_flight
+J'ai besoin que vous traduisiez la phrase «nous y serons bientôt» en portugais,translate
+I need you to translate the phrase "we'll be there soon" into Portuguese,translate
+Ich brauche Ihre Hilfe um den Satz "wir werden bald da sein" ins Portugiesische zu übersetzen,translate
+Ho bisogno che tu traduca la frase "arriveremo presto" in portoghese,translate
+Preciso que você traduza a frase "estaremos lá em breve" para o português,translate
+Necesito que traduzcas la frase "estaremos allí pronto" al portugués,translate
+Pouvez-vous traduire la phrase «nous y serons bientôt» en portugais ?,translate
+Can you translate the phrase "we'll be there soon" into Portuguese?,translate
+Können Sie den Satz "wir werden bald da sein" ins Portugiesische übersetzen?,translate
+Puoi tradurre la frase "arriveremo presto" in portoghese?,translate
+Você pode traduzir a frase "estaremos lá em breve" para o português?,translate
+¿Puedes traducir la frase "estaremos allí pronto" al portugués?,translate
+Quand mon vol décollera-t-il ?,flight_status
+When will my flight take off?,flight_status
+Wann wird mein Flug abheben?,flight_status
+Quando il mio volo decollerà?,flight_status
+Quando meu voo vai decolar?,flight_status
+Quand mon vol décollera-t-il ?,flight_status
+When will my flight take off?,flight_status
+Wann wird mein Flug abheben?,flight_status
+Quando decollerà il mio volo?,flight_status
+Quando o meu voo vai decolar?,flight_status
+¿Cuándo despegará mi vuelo?,flight_status
+Pouvez-vous me dire quand mon vol décollera ?,flight_status
+Can you tell me when my flight will take off?,flight_status
+Können Sie mir sagen wann mein Flug abheben wird?,flight_status
+Puoi dirmi quando decollerà il mio volo?,flight_status
+Você pode me dizer quando o meu voo vai decolar?,flight_status
+¿Puedes decirme cuándo despegará mi vuelo?,flight_status
+Y a-t-il des nouvelles sur le vol DL123 ?,flight_status
+Is there any news about flight DL123?,flight_status
+Gibt es Neuigkeiten über den Flug DL123?,flight_status
+Ci sono novità sul volo DL123?,flight_status
+Há alguma novidade sobre o voo DL123?,flight_status
+¿Hay noticias sobre el vuelo DL123?,flight_status
+Pouvez-vous me dire s'il y a des nouvelles sur le vol DL123 ?,flight_status
+Can you tell me if there is any news about flight DL123?,flight_status
+Können Sie mir sagen ob es Neuigkeiten über den Flug DL123 gibt?,flight_status
+Puoi dirmi se ci sono novità sul volo DL123?,flight_status
+Você pode me dizer se há alguma novidade sobre o voo DL123?,flight_status
+¿Puedes decirme si hay noticias sobre el vuelo DL123?,flight_status
+Pouvez-vous me dire le fuseau horaire à San Francisco ?,out_of_scope
+Can you tell me the time zone in San Francisco?,out_of_scope
+Können Sie mir die Zeitzone in San Francisco sagen?,out_of_scope
+Puoi dirmi il fuso orario di San Francisco?,out_of_scope
+Você pode me dizer o fuso horário de São Francisco?,out_of_scope
+¿Puedes decirme la zona horaria de San Francisco?,out_of_scope
+Quel est le fuseau horaire de San Francisco ?,out_of_scope
+What is the time zone in San Francisco?,out_of_scope
+Welche Zeitzone hat San Francisco?,out_of_scope
+Qual è il fuso orario di San Francisco?,out_of_scope
+Qual é o fuso horário de São Francisco?,out_of_scope
+¿Cuál es la zona horaria de San Francisco?,out_of_scope
+Réservez-moi une chambre du 11 au 15 novembre à Cali,book_hotel
+Book me a room from November 11th to 15th in Cali,book_hotel
+Buchen Sie mir ein Zimmer vom 11. bis 15. November in Cali,book_hotel
+Prenotami una camera dall'11 al 15 novembre a Cali,book_hotel
+Reserve-me um quarto de 11 a 15 de novembro em Cali,book_hotel
+Resérveme una habitación del 11 al 15 de noviembre en Cali,book_hotel
+Pouvez-vous me réserver une chambre du 11 au 15 novembre à Cali ?,book_hotel
+Can you book me a room from November 11th to 15th in Cali?,book_hotel
+Können Sie mir ein Zimmer vom 11. bis 15. November in Cali buchen?,book_hotel
+Puoi prenotarmi una camera dall'11 al 15 novembre a Cali?,book_hotel
+Você pode reservar um quarto para mim de 11 a 15 de novembro em Cali?,book_hotel
+¿Puedes reservarme una habitación del 11 al 15 de noviembre en Cali?,book_hotel
+Y a-t-il des activités touristiques amusantes en Australie ?,travel_suggestion
+Are there fun tourist activities in Australia?,travel_suggestion
+Gibt es unterhaltsame touristische Aktivitäten in Australien?,travel_suggestion
+Ci sono attività turistiche divertenti in Australia?,travel_suggestion
+Há atividades turísticas divertidas na Austrália?,travel_suggestion
+¿Hay actividades turísticas divertidas en Australia?,travel_suggestion
+Pouvez-vous me dire s'il y a des activités touristiques amusantes en Australie ?,travel_suggestion
+Can you tell me if there are fun tourist activities in Australia?,travel_suggestion
+Können Sie mir sagen ob es unterhaltsame touristische Aktivitäten in Australien gibt?,travel_suggestion
+Puoi dirmi se ci sono attività turistiche divertenti in Australia?,travel_suggestion
+Você pode me dizer se há atividades turísticas divertidas na Austrália?,travel_suggestion
+¿Puedes decirme si hay actividades turísticas divertidas en Australia?,travel_suggestion
+S'il vous plaît aidez-moi à réserver un endroit où séjourner à Pittsburgh du lundi au vendredi,book_hotel
+Please help me book a place to stay in Pittsburgh from Monday to Friday,book_hotel
+Bitte helfen Sie mir eine Unterkunft in Pittsburgh von Montag bis Freitag zu buchen,book_hotel
+Per favore aiutami a prenotare un posto dove stare a Pittsburgh da lunedì a venerdì,book_hotel
+Por favor ajude-me a reservar um lugar para ficar em Pittsburgh de segunda a sexta-feira,book_hotel
+Por favor ayúdeme a reservar un lugar para quedarme en Pittsburgh de lunes a viernes,book_hotel
+Pouvez-vous m'aider à réserver un endroit où séjourner à Pittsburgh du lundi au vendredi ?,book_hotel
+Can you help me book a place to stay in Pittsburgh from Monday to Friday?,book_hotel
+Können Sie mir helfen eine Unterkunft in Pittsburgh von Montag bis Freitag zu buchen?,book_hotel
+Puoi aiutarmi a prenotare un posto dove stare a Pittsburgh da lunedì a venerdì?,book_hotel
+Você pode me ajudar a reservar um lugar para ficar em Pittsburgh de segunda a sexta-feira?,book_hotel
+¿Puedes ayudarme a reservar un lugar para quedarme en Pittsburgh de lunes a viernes?,book_hotel
+Quels sont les bons restaurants à Chicago ?,travel_suggestion
+What are the good restaurants in Chicago?,travel_suggestion
+Welche guten Restaurants gibt es in Chicago?,travel_suggestion
+Quali sono i buoni ristoranti a Chicago?,travel_suggestion
+Quais são os bons restaurantes em Chicago?,travel_suggestion
+¿Cuáles son los buenos restaurantes en Chicago?,travel_suggestion
+Pouvez-vous me dire quels sont les bons restaurants à Chicago ?,travel_suggestion
+Can you tell me what the good restaurants in Chicago are?,travel_suggestion
+Können Sie mir sagen welche guten Restaurants es in Chicago gibt?,travel_suggestion
+Puoi dirmi quali sono i buoni ristoranti a Chicago?,travel_suggestion
+Você pode me dizer quais são os bons restaurantes em Chicago?,travel_suggestion
+¿Puedes decirme cuáles son los buenos restaurantes en Chicago?,travel_suggestion
+Pouvez-vous me dire à quelle vitesse moyenne l'avion vers la Californie va ?,out_of_scope
+Can you tell me the average speed of the plane to California?,out_of_scope
+Können Sie mir die Durchschnittsgeschwindigkeit des Flugzeugs nach Kalifornien sagen?,out_of_scope
+Puoi dirmi la velocità media dell'aereo per la California?,out_of_scope
+Você pode me dizer a velocidade média do avião para a Califórnia?,out_of_scope
+¿Puedes decirme la velocidad promedio del avión a California?,out_of_scope
+Quelle est la vitesse moyenne de l'avion vers la Californie ?,out_of_scope
+What is the average speed of the plane to California?,out_of_scope
+Wie hoch ist die Durchschnittsgeschwindigkeit des Flugzeugs nach Kalifornien?,out_of_scope
+Qual è la velocità media dell'aereo per la California?,out_of_scope
+Qual é a velocidade média do avião para a Califórnia?,out_of_scope
+¿Cuál es la velocidad promedio del avión a California?,out_of_scope
+Quelle est la durée de vie moyenne d'un chat ?,out_of_scope
+What is the average lifespan of a cat?,out_of_scope
+Wie alt wird eine Katze durchschnittlich?,out_of_scope
+What are the benefits of finishing high school?,out_of_scope
+Quels sont les inconvénients de ne pas finir ses études ?,out_of_scope
+Quels débouchés puis-je avoir après le lycée ?,out_of_scope
+Pourquoi est-il important d'obtenir son diplôme ?,out_of_scope
+Quels sont les avantages d'un diplôme de lycée aux États-Unis ?,out_of_scope
+Quelles opportunités puis-je obtenir avec un bac ?,out_of_scope
+Finir le lycée est-il nécessaire pour réussir ?,out_of_scope
+Pourquoi devrais-je aller jusqu'au bout de ma scolarité ?,out_of_scope
+Is graduating from high school really that important?,out_of_scope
+Quels sont les bénéfices d'un diplôme de fin d'études ?,out_of_scope
+J'ai besoin d'une grande chambre d'hôtel pour 4 personnes du lundi au mercredi à Lyon,book_hotel
+Trouve-moi un hôtel à Madrid pouvant accueillir 4 personnes du lundi au mercredi,book_hotel
+Je cherche une chambre pour 4 à Chicago du lundi au mercredi,book_hotel
+J'ai besoin d'une chambre double avec deux lits à Londres du lundi au mercredi,book_hotel
+Can you book me a hotel for 4 people in Berlin from Monday to Wednesday?,book_hotel
+Pouvez-vous trouver un hôtel pour une famille de 4 personnes à Sydney ?,book_hotel
+Réservez-moi une chambre pour 4 personnes du lundi au mercredi à Montréal,book_hotel
+Besoin d'un hébergement pour 4 à Rome en milieu de semaine,book_hotel
+Quel est le prix d'un hôtel pour 4 personnes à Los Angeles ?,book_hotel
+Cherche logement pour 4 personnes du lundi au mercredi à Amsterdam,book_hotel
+Que puis-je emporter en cabine avec Delta Airlines ?,carry_on
+Puis-je prendre mon sac à dos en cabine avec Air France ?,carry_on
+Quelles sont les restrictions sur les bagages cabine chez Emirates ?,carry_on
+Puis-je transporter un parapluie en bagage cabine avec Ryanair ?,carry_on
+Am I allowed to bring a laptop in the cabin on Lufthansa flights?,carry_on
+Quels objets sont interdits en cabine chez Qatar Airways ?,carry_on
+Est-ce que mon sac de 12 kg passe en cabine avec EasyJet ?,carry_on
+Do I need to pay extra for hand luggage on Turkish Airlines?,carry_on
+Puis-je transporter une bouteille d'eau en cabine sur un vol intérieur ?,carry_on
+Quelles sont les dimensions maximales des bagages cabine sur Swiss Air ?,carry_on
+Quelle est la capitale de l'Afghanistan ?,out_of_scope
+Can you tell me the capital of Brazil?,out_of_scope
+Quelle est la capitale de l'Inde ?,out_of_scope
+Trouve-moi la capitale de l'Argentine.,out_of_scope
+What's the capital city of South Korea?,out_of_scope
+Capitale du Canada c'est quoi ?,out_of_scope
+Quel est le chef-lieu de l'Allemagne ?,out_of_scope
+Capitale du Maroc ?,out_of_scope
+What's the capital of Australia?,out_of_scope
+Quel est le pays dont la capitale est Vienne ?,out_of_scope
+Bagages perdus sur un vol Delta à JFK,lost_luggage
+J'ai perdu mes bagages sur un vol United Airlines à CDG,lost_luggage
+Mon sac a disparu après un vol avec Air Canada,lost_luggage
+Luggage missing from my flight with KLM at Schiphol Airport,lost_luggage
+Perdi minha mala no voo da TAP em Lisboa,lost_luggage
+My suitcase didn't arrive from my flight with British Airways,lost_luggage
+He perdido mi equipaje tras un vuelo con Iberia a Madrid,lost_luggage
+J'ai égaré ma valise après un vol Qatar Airways vers Doha,lost_luggage
+Habe mein Gepäck nach einem Flug mit Lufthansa verloren,lost_luggage
+Lost luggage on Emirates flight to Dubai,lost_luggage
+Is it safe to travel to South Africa?,travel_alert
+Y a-t-il des alertes de sécurité pour le Japon ?,travel_alert
+Puis-je me rendre en Russie en toute sécurité ?,travel_alert
+Is travel to Turkey currently safe?,travel_alert
+Are there any travel warnings for Brazil?,travel_alert
+Quels sont les conseils de sécurité pour visiter la Thaïlande ?,travel_alert
+Do I need to worry about travel restrictions in China?,travel_alert
+Y a-t-il des recommandations pour se rendre en Argentine ?,travel_alert
+Est-il risqué d'aller au Mexique en ce moment ?,travel_alert
+Should I avoid traveling to Egypt?,travel_alert
+Quel héros Marvel est apparu dans le plus de films ?,out_of_scope
+Who is the most featured Marvel superhero in movies?,out_of_scope
+Quel personnage de DC a le plus de films ?,out_of_scope
+Lequel des Avengers est le plus présent dans le MCU ?,out_of_scope
+Which Marvel character has the highest screen time?,out_of_scope
+Quel méchant Marvel est le plus populaire ?,out_of_scope
+Who has played Spider-Man in the most movies?,out_of_scope
+Quel acteur a incarné Iron Man ?,out_of_scope
+What is the most successful Marvel movie?,out_of_scope
+Quel film de super-héros a rapporté le plus d'argent ?,out_of_scope
+Je veux un billet aller-retour de LAX à JFK du 5 au 10 mars,book_flight
+Find me a round-trip flight from ORD to MIA from July 12 to July 19,book_flight
+Cherche un vol aller-retour entre CDG et DXB du 1er au 7 septembre,book_flight
+I need a return flight from SFO to BOS from August 20 to August 25,book_flight
+Reserva un vuelo ida y vuelta de BCN a EZE del 3 al 10 noviembre,book_flight
+Quero uma passagem de ida e volta de GRU para LIS entre 15 e 22 de maio,book_flight
+Ich brauche einen Hin- und Rückflug von FRA nach SIN vom 10. bis 17. Juni,book_flight
+Rebook me a round-trip flight from LHR to HND for next month,book_flight
+Puis-je avoir un vol aller-retour de Madrid à New York en décembre ?,book_flight
+J'ai besoin d'un billet aller-retour entre Rome et Athènes du 4 au 9 avril,book_flight
+How do you say "It's a beautiful day" in Spanish?,translate
+Comment dire « J'ai faim » en portugais ?,translate
+Can you translate "I love you" into German?,translate
+Dites-moi comment on dit "Merci beaucoup" en italien,translate
+Comment exprime-t-on "Bon anniversaire" en finnois ?,translate
+How do you say "Good night" in French?,translate
+How to translate "See you soon" into Dutch?,translate
+Quelle est la traduction de "Bonne chance" en japonais ?,translate
+Traduzca "Estoy feliz" al portugués,translate
+Comment dire "Je suis fatigué" en chinois ?,translate
+Quand commence l'embarquement pour mon vol American Airlines ?,flight_status
+What time is boarding for my Delta flight?,flight_status
+Quand puis-je monter à bord de mon vol Air France ?,flight_status
+At what time does the Emirates boarding gate close?,flight_status
+Quelle est l'heure de l'embarquement pour mon vol Lufthansa ?,flight_status
+Is my Ryanair flight boarding soon?,flight_status
+Quand dois-je être à la porte pour mon vol easyJet ?,flight_status
+How much time do I have before my Turkish Airlines boarding?,flight_status
+Quand débute l'embarquement pour mon vol Iberia ?,flight_status
+How long until I can board my JetBlue flight?,flight_status
+What are the benefits of finishing high school?,out_of_scope
+Quels sont les inconvénients de ne pas finir ses études ?,out_of_scope
+Quels débouchés puis-je avoir après le lycée ?,out_of_scope
+Pourquoi est-il important d'obtenir son diplôme ?,out_of_scope
+Quels sont les avantages d'un diplôme de lycée aux États-Unis ?,out_of_scope
+Quelles opportunités puis-je obtenir avec un bac ?,out_of_scope
+Finir le lycée est-il nécessaire pour réussir ?,out_of_scope
+Pourquoi devrais-je aller jusqu'au bout de ma scolarité ?,out_of_scope
+Is graduating from high school really that important?,out_of_scope
+Quels sont les bénéfices d'un diplôme de fin d'études ?,out_of_scope
+Un diplôme est-il essentiel pour réussir dans la vie ?,out_of_scope
+Peut-on réussir sans finir le lycée ?,out_of_scope
+Pourquoi le bac est-il important ?,out_of_scope
+Does a high school diploma help in getting a job?,out_of_scope
+L'éducation secondaire est-elle indispensable ?,out_of_scope
+Que se passe-t-il si je quitte l'école avant la fin ?,out_of_scope
+Quels sont les risques de ne pas avoir de diplôme ?,out_of_scope
+Un employeur vérifie-t-il le diplôme de fin d'études ?,out_of_scope
+Avoir un diplôme change-t-il vraiment la vie ?,out_of_scope
+Le lycée prépare-t-il vraiment au monde du travail ?,out_of_scope
+Un diplôme de fin d'études est-il exigé partout ?,out_of_scope
+Je cherche une grande chambre d'hôtel pour 4 personnes à Lyon,book_hotel
+Trouve-moi un hôtel à Madrid pouvant accueillir 4 personnes,book_hotel
+Je cherche une chambre pour 4 à Chicago,book_hotel
+J'ai besoin d'une chambre double avec deux lits à Londres,book_hotel
+Can you book me a hotel for 4 people in Berlin?,book_hotel
+Pouvez-vous trouver un hôtel pour une famille à Sydney ?,book_hotel
+Réservez-moi une chambre pour 4 à Montréal,book_hotel
+Besoin d'un hébergement pour 4 à Rome,book_hotel
+Quel est le prix d'un hôtel pour 4 à Los Angeles ?,book_hotel
+Cherche logement pour 4 personnes à Amsterdam,book_hotel
+Un hôtel à Tokyo pour 4 personnes serait disponible ?,book_hotel
+J'ai besoin d'une chambre spacieuse pour 4 à New York,book_hotel
+Une chambre familiale pour 4 personnes à Séoul ?,book_hotel
+Hôtel pas cher pour 4 personnes à Istanbul ?,book_hotel
+Cherche auberge pour 4 à Barcelone,book_hotel
+Peut-on avoir une suite pour 4 à Las Vegas ?,book_hotel
+Combien coûte une nuit pour 4 personnes à Vienne ?,book_hotel
+Hôtel avec piscine pour 4 à Athènes,book_hotel
+Cherche appart-hôtel pour 4 à Lisbonne,book_hotel
+Que puis-je emporter en cabine avec Delta Airlines ?,carry_on
+Puis-je prendre mon sac à dos en cabine avec Air France ?,carry_on
+Quelles sont les restrictions sur les bagages cabine chez Emirates ?,carry_on
+Puis-je transporter un parapluie en bagage cabine avec Ryanair ?,carry_on
+Am I allowed to bring a laptop in the cabin on Lufthansa flights?,carry_on
+Quels objets sont interdits en cabine chez Qatar Airways ?,carry_on
+Est-ce que mon sac de 12 kg passe en cabine avec EasyJet ?,carry_on
+Do I need to pay extra for hand luggage on Turkish Airlines?,carry_on
+Puis-je transporter une bouteille d'eau en cabine sur un vol intérieur ?,carry_on
+Quelles sont les dimensions maximales des bagages cabine sur Swiss Air ?,carry_on
+Puis-je avoir une trousse de toilette en cabine ?,carry_on
+Les liquides sont-ils limités en bagage à main ?,carry_on
+Est-ce que les instruments de musique sont acceptés en cabine ?,carry_on
+Puis-je prendre une valise et un sac en cabine ?,carry_on
+Quelle est la franchise bagage pour un vol low-cost ?,carry_on
+Est-ce que mon bagage cabine passe sur un vol intérieur ?,carry_on
+Do I need to pay extra for a second carry-on?,carry_on
+Can I take a power bank in my hand luggage?,carry_on
+Puis-je transporter mon drone en cabine ?,carry_on
+Quelles règles pour les bagages cabine sur AirAsia ?,carry_on
+J'ai perdu mes bagages sur un vol United Airlines à CDG,lost_luggage
+Mon sac a disparu après un vol avec Air Canada,lost_luggage
+Luggage missing from my flight with KLM at Schiphol Airport,lost_luggage
+Perdi minha mala no voo da TAP em Lisboa,lost_luggage
+My suitcase didn't arrive from my flight with British Airways,lost_luggage
+He perdido mi equipaje tras un vuelo con Iberia a Madrid,lost_luggage
+J'ai égaré ma valise après un vol Qatar Airways vers Doha,lost_luggage
+Habe mein Gepäck nach einem Flug mit Lufthansa verloren,lost_luggage
+Lost luggage on Emirates flight to Dubai,lost_luggage
+Mes bagages ne sont jamais arrivés avec mon vol Air France,lost_luggage
+J'ai besoin d'aide pour retrouver mon bagage perdu,lost_luggage
+Que dois-je faire si ma valise a disparu ?,lost_luggage
+Airline lost my luggage what should I do?,lost_luggage
+J'ai perdu mon bagage à l'aéroport d'Heathrow,lost_luggage
+Ma valise a été égarée à l'aéroport de Francfort,lost_luggage
+Peut-on récupérer un bagage perdu après plusieurs jours ?,lost_luggage
+Quel est le délai pour retrouver un bagage perdu ?,lost_luggage
+L'aéroport de JFK a-t-il retrouvé ma valise ?,lost_luggage
+Puis-je obtenir un remboursement pour mon bagage perdu ?,lost_luggage
+Je veux un billet aller-retour de LAX à JFK du 5 au 10 mars,book_flight
+Find me a round-trip flight from ORD to MIA from July 12 to July 19,book_flight
+Cherche un vol aller-retour entre CDG et DXB du 1er au 7 septembre,book_flight
+I need a return flight from SFO to BOS from August 20 to August 25,book_flight
+Reserva un vuelo ida y vuelta de BCN a EZE del 3 al 10 noviembre,book_flight
+Quero uma passagem de ida e volta de GRU para LIS entre 15 e 22 de maio,book_flight
+Ich brauche einen Hin- und Rückflug von FRA nach SIN vom 10. bis 17. Juni,book_flight
+Rebook me a round-trip flight from LHR to HND for next month,book_flight
+Puis-je avoir un vol aller-retour de Madrid à New York en décembre ?,book_flight
+J'ai besoin d'un billet aller-retour entre Rome et Athènes du 4 au 9 avril,book_flight
+Je cherche un vol économique pour New York aller-retour,book_flight
+Puis-je modifier la date de mon vol retour ?,book_flight
+Quels sont les meilleurs prix pour un vol aller-retour ?,book_flight
+Vol pas cher pour Paris aller-retour ?,book_flight
+Quelles compagnies offrent des vols directs aller-retour ?,book_flight
+
+
+

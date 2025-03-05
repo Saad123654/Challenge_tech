@@ -1,0 +1,89 @@
+text,label
+Est-il possible de louer une moto à JFK du lundi au dimanche,out_of_scope
+Peut-on réserver un véhicule à l'aéroport Charles de Gaulle du mercredi au samedi ?,out_of_scope
+Is it possible to rent a car at JFK from Monday to Sunday?,out_of_scope
+Puis-je louer une voiture à Orly du jeudi au lundi ?,out_of_scope
+Comment faire pour réserver une voiture à l'aéroport de Los Angeles ?,out_of_scope
+Y a-t-il une agence de location de voitures à l'aéroport de Miami ?,out_of_scope
+Où puis-je trouver une location de moto à Barcelone ?,out_of_scope
+Puis-je louer un 4x4 à l'aéroport de Madrid pour une semaine ?,out_of_scope
+Existe-t-il une restriction sur la location de véhicules à Londres ?,out_of_scope
+J'aimerais louer un camping-car à Berlin du 5 au 10 juin,out_of_scope
+Quand vais-je arriver à destination ?,flight_status
+Quelle est l'heure prévue d'atterrissage de mon vol ?,flight_status
+At what time will I reach my destination?,flight_status
+À quelle heure mon avion doit-il arriver ?,flight_status
+Mon vol de Paris à New York sera-t-il à l'heure ?,flight_status
+Quelle est l'heure d'arrivée du vol AF125 ?,flight_status
+Mon vol est-il retardé ?,flight_status
+Puis-je savoir si mon avion va atterrir à l'heure ?,flight_status
+How long until I reach my final stop?,flight_status
+Quand mon vol atterrit-il à Tokyo ?,flight_status
+Quel est le plus grand État des États-Unis ?,out_of_scope
+Which U.S. state has the largest surface area?,out_of_scope
+Quel est l'État américain ayant la plus grande superficie ?,out_of_scope
+What's the biggest state in the USA?,out_of_scope
+L'Alaska est-il plus grand que le Texas ?,out_of_scope
+Combien de kilomètres carrés fait la Californie ?,out_of_scope
+Quel État des États-Unis a la plus forte population ?,out_of_scope
+En termes de superficie quel est le plus grand État américain ?,out_of_scope
+Le Texas est-il le plus grand État des États-Unis ?,out_of_scope
+Which state in America is the largest in terms of land area?,out_of_scope
+Trouvez-moi un endroit où séjourner à Barcelone du 20 au 25 décembre,book_hotel
+Can you find me a hotel in Madrid from July 1st to July 5th?,book_hotel
+Réservez-moi une chambre à Bangkok du 8 au 12 septembre,book_hotel
+Where can I stay in Tokyo for a week?,book_hotel
+Could you book a hotel in Berlin from October 10th to 15th?,book_hotel
+J'ai besoin d'un logement à Rome pour quatre nuits,book_hotel
+Pouvez-vous m'aider à trouver un Airbnb à New York ?,book_hotel
+Je cherche une auberge de jeunesse à Amsterdam,book_hotel
+Quel est le meilleur hôtel à Lisbonne pour un séjour court ?,book_hotel
+Are there good hotels in Sydney for a weekend trip?,book_hotel
+À qui dois-je me plaindre si mes valises sont perdues à l'aéroport ?,lost_luggage
+Where should I report my missing luggage at the airport?,lost_luggage
+Si mes bagages n'arrivent pas qui dois-je contacter ?,lost_luggage
+How do I claim lost baggage at JFK?,lost_luggage
+Je ne retrouve pas ma valise que dois-je faire ?,lost_luggage
+Puis-je faire une réclamation pour mon sac perdu ?,lost_luggage
+Qui est responsable des bagages égarés à Roissy ?,lost_luggage
+My suitcase is missing at London Heathrow what should I do?,lost_luggage
+Comment déclarer une valise perdue à l'aéroport ?,lost_luggage
+À qui puis-je m'adresser si mon sac n'apparaît pas sur le tapis ?,lost_luggage
+Comment dire « hôtel » en finnois ?,translate
+How do you say “hotel” in Finnish?,translate
+Traduisez “hôtel” en finnois,translate
+Quel est le mot finnois pour “hôtel” ?,translate
+Wie sagt man „Hotel“ auf Finnisch?,translate
+Comment traduit-on « auberge » en finnois ?,translate
+What is the Finnish word for “hotel”?,translate
+Traduzca “hotel” al finlandés,translate
+Hôtel en finnois c'est quoi ?,translate
+Comment dit-on « hôtel » en suédois ?,translate
+Est-il possible de louer une voiture à la Laguardia du mardi au vendredi,out_of_scope
+Quand vais-je arriver à destination,flight_status
+Quel est le plus grand état des États-Unis,out_of_scope
+Trouvez-moi un endroit où séjourner à Cali du 11 au 15 novembre,book_hotel
+À qui dois-je me plaindre que mes bagages n'arrivent pas à l'aéroport,lost_luggage
+Comment dire «hôtel» en finnois,translate
+La Corée du Nord a-t-elle des alertes de voyage que je devrais être conscientes,travel_alert
+qui est l'entraîneur des Chicago Bulls,out_of_scope
+où devrais-je passer mon temps libre,travel_suggestion
+Combien de temps dure l'hiver,out_of_scope
+Pourriez-vous faire une réservation de vol avec Air Emirates d'Orlando à Londres,book_flight
+Y a-t-il une limite de poids pour mon bagage à main,carry_on
+Réservez-moi un billet d'avion avec Qatar Airways de Miami à Paris,book_flight
+Peut-on organiser un vol avec Lufthansa de Berlin à New York ?,book_flight
+I'd like to book a flight with British Airways from Toronto to Madrid,book_flight
+Kann ich einen Flug mit Swiss Air von Zürich nach Wien buchen?,book_flight
+Vorrei prenotare un volo con Alitalia da Milano a Roma,book_flight
+Quiero comprar un billete de avión con Iberia de Buenos Aires a Madrid,book_flight
+J'ai besoin d'un vol en classe affaires avec Air France de Marseille à Tokyo,book_flight
+Could you arrange a direct flight with Emirates from Chicago to Dubai?,book_flight
+Quelle est la restriction de poids pour les bagages cabine sur Ryanair ?,carry_on
+Puis-je emporter un sac de 12 kg en cabine avec EasyJet ?,carry_on
+What is the carry-on weight limit for Delta Airlines?,carry_on
+Wie viele Kilos darf ich als Handgepäck mit Lufthansa mitnehmen?,carry_on
+Quanti chili posso portare come bagaglio a mano su ITA Airways?,carry_on
+¿Cuál es el peso máximo permitido para el equipaje de mano en Aeroméxico?,carry_on
+Can I bring two carry-on bags with American Airlines?,carry_on
+Existe-t-il une taille maximale pour les valises en cabine chez Turkish Airlines ?,carry_on

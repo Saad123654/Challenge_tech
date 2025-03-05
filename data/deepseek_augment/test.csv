@@ -1,0 +1,111 @@
+text,label
+Quels sont les bénéfices d'obtenir son diplôme du secondaire ?,out_of_scope
+Quels sont les avantages d'avoir son bac ?,out_of_scope
+What are the benefits of finishing high school?,out_of_scope
+Pourquoi devrais-je terminer le lycée ?,out_of_scope
+Quels sont les débouchés après le lycée ?,out_of_scope
+Quels métiers peut-on faire après le bac ?,out_of_scope
+Is there an advantage to graduating high school?,out_of_scope
+Quels sont les inconvénients de ne pas finir ses études ?,out_of_scope
+Pourquoi est-ce important d'obtenir son diplôme ?,out_of_scope
+Quels sont les bénéfices d'une éducation complète ?,out_of_scope
+J'ai besoin d'une chambre d'hôtel pour 4 personnes du jeudi au dimanche à Lyon,book_hotel
+Can I book a hotel room for 4 guests in New York from Monday to Wednesday?,book_hotel
+Trouvez-moi un hôtel pouvant accueillir 4 personnes à Marseille du vendredi au samedi,book_hotel
+Where can I find a family hotel for 4 in Barcelona from the 5th to the 7th?,book_hotel
+J'aimerais réserver une chambre spacieuse pour quatre adultes à Rome,book_hotel
+Could you find me a large suite for 4 in Madrid?,book_hotel
+Quels hôtels proposent des chambres familiales à Berlin ?,book_hotel
+Je cherche un appartement à louer pour 4 personnes à Tokyo du 1er au 3 juin,book_hotel
+Quels hôtels économiques peuvent loger 4 personnes à Bangkok ?,book_hotel
+Find me a place to stay in Paris for a group of four from July 10 to 12,book_hotel
+Que puis-je emporter avec moi en cabine sur un vol Delta ?,carry_on
+What am I allowed to take in my carry-on with Lufthansa?,carry_on
+Quels objets sont autorisés en bagage cabine sur Ryanair ?,carry_on
+Puis-je transporter des liquides en cabine avec Air France ?,carry_on
+Quelles sont les restrictions pour les bagages cabine sur Emirates ?,carry_on
+Is there a weight limit for hand luggage on British Airways?,carry_on
+Puis-je prendre une valise cabine et un sac à dos sur EasyJet ?,carry_on
+Quels articles sont interdits en bagage cabine ?,carry_on
+Can I bring a laptop and a purse in my carry-on?,carry_on
+Quelles sont les dimensions maximales d'un bagage cabine sur Iberia ?,carry_on
+Quelle est la capitale du Bangladesh ?,out_of_scope
+What is the capital of Afghanistan?,out_of_scope
+Pouvez-vous me donner la capitale du Vietnam ?,out_of_scope
+Which city is the capital of Argentina?,out_of_scope
+Capitale du Brésil c'est quoi ?,out_of_scope
+Quel est le pays dont la capitale est Sofia ?,out_of_scope
+La capitale de la Norvège est-elle Oslo ?,out_of_scope
+Is Moscow the capital of Russia?,out_of_scope
+Quelle ville est le centre politique du Canada ?,out_of_scope
+Donne-moi la capitale de l'Italie s'il te plaît.,out_of_scope
+Mes bagages ont été perdus sur un vol Lufthansa à Roissy,lost_luggage
+My luggage went missing on a British Airways flight at Heathrow.,lost_luggage
+Perte de valise sur vol Air France à Charles de Gaulle,lost_luggage
+J'ai perdu mon sac en arrivant à JFK avec Delta Airlines,lost_luggage
+What do I do if my suitcase is lost at LAX?,lost_luggage
+À qui dois-je signaler une perte de bagage à Berlin ?,lost_luggage
+Où se trouve le service des objets perdus de Qatar Airways ?,lost_luggage
+Can I file a lost baggage claim at Amsterdam Schiphol?,lost_luggage
+Comment retrouver mes bagages après un vol annulé ?,lost_luggage
+Ma valise n'est jamais arrivée à Dubaï avec Emirates,lost_luggage
+L'Islande est-elle une destination sûre pour les touristes ?,travel_alert
+Est-il risqué de voyager en Thaïlande en ce moment ?,travel_alert
+Is it safe to travel to Turkey this summer?,travel_alert
+Quels sont les risques pour un voyage au Brésil ?,travel_alert
+Are there travel warnings for Mexico right now?,travel_alert
+Y a-t-il des alertes pour les voyageurs en Indonésie ?,travel_alert
+Puis-je me rendre en Égypte sans danger ?,travel_alert
+Le Japon est-il une destination sécurisée pour les familles ?,travel_alert
+Y a-t-il des recommandations pour visiter l'Afrique du Sud ?,travel_alert
+What are the current travel advisories for Spain?,travel_alert
+Quel personnage Disney est apparu dans le plus de films ?,out_of_scope
+Who is the most featured superhero in Marvel movies?,out_of_scope
+Quel acteur a joué le plus de rôles chez DC Comics ?,out_of_scope
+Which Marvel character has the most screen time?,out_of_scope
+Quel super-héros est le plus populaire chez les fans ?,out_of_scope
+Which Avenger has appeared in the most films?,out_of_scope
+Quel est le héros de BD ayant eu le plus d'adaptations ?,out_of_scope
+What character has been in the most movies ever?,out_of_scope
+Qui a fait le plus d'apparitions dans le MCU ?,out_of_scope
+Quel personnage de Star Wars est le plus présent à l'écran ?,out_of_scope
+Je cherche un vol aller-retour de CDG à JFK du 5 mars au 12 mars,book_flight
+Find me a round-trip flight from LAX to SFO between June 10 and June 17,book_flight
+Pouvez-vous réserver un billet aller-retour de Toronto à Miami ?,book_flight
+I need a flight from Sydney to Tokyo from August 3rd to August 10th,book_flight
+Vol aller-retour de Madrid à Rome du 15 avril au 20 avril,book_flight
+Quels sont les meilleurs prix pour un billet de Paris à Montréal ?,book_flight
+Can you find a direct flight from Berlin to Lisbon for next weekend?,book_flight
+Quel est le tarif moyen d'un vol entre New York et Chicago ?,book_flight
+Is there a non-stop flight from Singapore to Bangkok on June 1st?,book_flight
+Quelles compagnies desservent un vol entre Amsterdam et Athènes ?,book_flight
+Comment dit-on : « C'est une belle matinée » en espagnol ?,translate
+Translate “It's a beautiful morning” into German.,translate
+Wie sagt man „Es ist ein schöner Morgen“ auf Italienisch ?,translate
+Comment exprimer « belle matinée » en portugais ?,translate
+Traduisez cette phrase en anglais : « C'est une belle journée »,translate
+What is the French translation of “Good morning”?,translate
+¿Cómo se dice “It's a beautiful morning” en español?,translate
+Comment dire « beau matin » en néerlandais ?,translate
+Dites-moi comment dire « matin ensoleillé » en japonais,translate
+Traduisez « It's a nice day » en italien,translate
+À quelle heure commence l'embarquement pour mon vol ?,flight_status
+When does boarding start for my flight?,flight_status
+Quand vais-je pouvoir monter dans l'avion ?,flight_status
+Embarquement pour le vol AF225 c'est à quelle porte ?,flight_status
+Boarding time for Lufthansa flight LH123?,flight_status
+Puis-je encore embarquer pour mon vol ?,flight_status
+Quelle est la dernière heure d'embarquement ?,flight_status
+Combien de temps avant le décollage puis-je embarquer ?,flight_status
+Am I too late to board my scheduled flight?,flight_status
+Quand faut-il se présenter à la porte d'embarquement ?,flight_status
+Que puis-je faire à Bordeaux ?,travel_suggestion
+What are fun things to do in Kyoto?,travel_suggestion
+Où aller pour se divertir à Buenos Aires ?,travel_suggestion
+Is there anything exciting to do in San Francisco?,travel_suggestion
+Quels sont les lieux incontournables à Prague ?,travel_suggestion
+What can I explore in Cape Town?,travel_suggestion
+Donne-moi des suggestions d'activités à Dubaï,travel_suggestion
+What should I visit in Seoul?,travel_suggestion
+Quels sont les meilleurs endroits à voir à Istanbul ?,travel_suggestion
+Où passer du bon temps à Madrid ?,travel_suggestion
