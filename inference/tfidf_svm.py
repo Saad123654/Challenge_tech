@@ -39,7 +39,7 @@ df['predictions_enc'] = y_pred
 
 # Mapper les prédictions numériques vers les labels correspondants sous forme de chaînes de caractères
 df['predictions'] = df['predictions_enc'].map(inverse_label_mapping)
-
+df = df.drop(columns=['predictions_enc'])
 # Sauvegarder les résultats dans un nouveau fichier CSV
 RESULTAT_DIR= os.path.abspath(os.path.join(pth, "data/inference/inference_results_svm.csv"))
 df.to_csv(RESULTAT_DIR, index=False)
