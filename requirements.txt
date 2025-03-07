@@ -3,7 +3,8 @@ matplotlib
 seaborn
 transformers
 sentencepiece
-#pip install -U sentence-transformers --use-feature=truststore
+sentence-transformers
+torch
 python-certifi-win32
 ipywidgets
 accelerate>=0.26.0
