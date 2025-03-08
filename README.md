@@ -6,8 +6,10 @@ L'intention lost_luggage est particulière car elle redirige l'utilisateur vers 
 
 Les performances de nos modèles sont évaluées à l'aide des métriques suivantes :
 
-Accuracy : La précision générale du modèle, c'est-à-dire le pourcentage de prédictions correctes sur l'ensemble des données.
-Recall, Precision et la F1-score (La moyenne harmonique de la précision et du rappel )
+- Accuracy : La précision générale du modèle, c'est-à-dire le pourcentage de prédictions correctes sur l'ensemble des données.
+- Recall, Precision et la F1-score (La moyenne harmonique de la précision et du rappel )
+
+Ces métriques sont calculées pour chaque classe individuellement, puis nous effectuons une moyenne pondérée ou une moyenne macro de ces valeurs.
 
 ## Installation des pré-requis
 Exécutez la commande suivante pour installer toutes les bibliothèques nécessaires à partir du fichier requirements.txt
