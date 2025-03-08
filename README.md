@@ -44,7 +44,7 @@ Nous avons fine-tuné un modèle `DistilBERT-multilingual-uncased` après modifi
 - Stratégie : `early stopping` pour éviter le surapprentissage.
 - Entraînement et test dans :
   - `notebook/trainining/finetuning_distilbert.ipynb`
-  - `notebook/deepseek_augmentation/tf_idf_ds/finetuning_distilbert_ds.ipynb`
+  - `notebook/deepseek_augmentation/finetuning_distilbert_ds.ipynb`
 - Export des modèles en `.pkl`.
 
 Les modèles doivent être enregistrés dans `models/`, mais en raison de leur taille, ils ne sont pas inclus dans le dépôt Git. Ils sont disponibles sur Google Drive : [Lien vers Google Drive](https://drive.google.com/drive/folders/1qUiHWMbolFD2nONCIa7yBEkxeWqHxGpA?usp=sharing).
