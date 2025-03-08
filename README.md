@@ -42,7 +42,7 @@ Pour chaque méthode d’augmentation, nous avons entraîné un pipeline TF-IDF 
 - Export des modèles en `.pkl`.
 
 On calcule des poids inversés pour chaque classe en fonction de leur fréquence, afin de compenser le déséquilibre des classes. 
-Ensuite, on double le poids de la classe "lust_luggage" pour lui donner encore plus d'importance lors de l'entraînement du modèle.
+Ensuite, on double le poids de la classe "lost_luggage" pour lui donner encore plus d'importance lors de l'entraînement du modèle.
 
 #### Fine-tuning de DistilBERT
 Nous avons fine-tuné un modèle `DistilBERT-multilingual-uncased` après modification de sa couche de sortie en 9 (nombre de labels). 
