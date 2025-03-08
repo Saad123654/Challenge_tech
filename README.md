@@ -1,3 +1,21 @@
+# Classification des Intentions d'un Chatbot d'Assistance Touristique
+## Objectif du projet
+Le but de ce projet est de proposer un algorithme permettant, étant donné un verbatim en entrée, de classifier l'intention exprimée. Les labels sont (translate, travel_alert, flight_status, lost_luggage, travel_suggestion, carry_on, book_hotel, book_flight, out_of_scope)
+
+L'intention lost_luggage est particulière car elle redirige l'utilisateur vers un service client avec un coût élevé pour l'agence. Cette intention nécessite un traitement spécifique pour limiter l'usage de cette catégorie.
+
+Les performances de nos modèles sont évaluées à l'aide des métriques suivantes :
+
+Accuracy : La précision générale du modèle, c'est-à-dire le pourcentage de prédictions correctes sur l'ensemble des données.
+Recall, Precision et la F1-score (La moyenne harmonique de la précision et du rappel )
+
+## Installation des pré-requis
+Exécutez la commande suivante pour installer toutes les bibliothèques nécessaires à partir du fichier requirements.txt
+```sh
+pip install -r requirements.txt
+
+   ```
+
 ## Structure du projet
 
 ### Approche
